@@ -1,0 +1,2929 @@
+[
+  {
+    "id": "7-01",
+    "grade": "7",
+    "number": 1,
+    "page": 2,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Observe a figura a seguir. A área de um retângulo pode ser calculado por: A = b ⋅h Na figura e na expressão apresentadas, o que a letra b representa?",
+    "options": [
+      "Um valor desconhecido que precisa ser descoberto no cálculo da área.",
+      "Um valor fixo para o cálculo da área de qualquer retângulo.",
+      "O resultado do cálculo da área do retângulo.",
+      "Uma medida que pode variar, representando a base de qualquer retângulo."
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/7-01-1.webp",
+        "width": 269,
+        "height": 152,
+        "alt": "Retângulo com base b e altura h."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Álgebra",
+    "hint": "Pense no que muda quando desenhamos outro retângulo.",
+    "explanation": "b representa a base. Ela pode ter medidas diferentes de um retângulo para outro; por isso é uma variável.",
+    "difficulty": 1
+  },
+  {
+    "id": "7-02",
+    "grade": "7",
+    "number": 2,
+    "page": 3,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma loja vende camisetas por R$ 35,00 cada. O valor total da compra depende da quantidade de camisetas adquiridas. Qual expressão representa corretamente o valor total T da compra em função da quantidade n de camisetas?",
+    "options": [
+      "T = 35 + n",
+      "T = 35n",
+      "T = 35",
+      "T = 35/n"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Álgebra",
+    "hint": "O total é o preço de uma camiseta vezes a quantidade.",
+    "explanation": "Cada camiseta custa 35 reais. Para n camisetas, T = 35 × n, ou T = 35n.",
+    "difficulty": 1
+  },
+  {
+    "id": "7-03",
+    "grade": "7",
+    "number": 3,
+    "page": 4,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A figura a seguir representa um canteiro retangular. A área desse canteiro pode ser calculada pela expressão: A = b ⋅h Com base na figura e na expressão apresentadas, qual é a área desse canteiro?",
+    "options": [
+      "10 m²",
+      "20 m²",
+      "24 m²",
+      "36 m²"
+    ],
+    "correct": 2,
+    "images": [
+      {
+        "src": "assets/questions/7-03-1.webp",
+        "width": 251,
+        "height": 143,
+        "alt": "Canteiro retangular com base de 6 m e altura de 4 m."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "A área do retângulo é base vezes altura.",
+    "explanation": "A base mede 6 m e a altura mede 4 m. A = 6 × 4 = 24 m².",
+    "difficulty": 1
+  },
+  {
+    "id": "7-04",
+    "grade": "7",
+    "number": 4,
+    "page": 5,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um aplicativo de transporte cobra uma taxa fixa de R$ 8,00 mais R$ 3,00 por quilômetro percorrido. O valor total V de uma corrida, considerando uma distância k (em quilômetros), é dado por: V = 8 + 3k Com base nessas informações, qual é o valor de uma corrida de 6 km?",
+    "options": [
+      "R$ 14,00",
+      "R$ 18,00",
+      "R$ 24,00",
+      "R$ 26,00"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Álgebra",
+    "hint": "Troque k pela distância e faça a multiplicação primeiro.",
+    "explanation": "V = 8 + 3 × 6 = 8 + 18 = R$ 26,00.",
+    "difficulty": 1
+  },
+  {
+    "id": "7-05",
+    "grade": "7",
+    "number": 5,
+    "page": 6,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Em uma loja, as caixas de um produto são organizadas em blocos. A quantidade de caixas em cada bloco segue o padrão mostrado a seguir: Considerando que n = 1 representa o primeiro bloco, qual expressão representa corretamente a quantidade de caixas no bloco de posição n?",
+    "options": [
+      "n + 2",
+      "2n + 1",
+      "3n",
+      "2n − 1"
+    ],
+    "correct": 1,
+    "images": [
+      {
+        "src": "assets/questions/7-05-1.webp",
+        "width": 287,
+        "height": 172,
+        "alt": "Blocos sucessivos com 3, 5, 7, 9 e 11 caixas."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Sequências",
+    "hint": "Compare quanto aumenta de um bloco para o próximo.",
+    "explanation": "A sequência é 3, 5, 7, 9, 11… A expressão 2n + 1 dá 3 para n = 1 e aumenta 2 a cada posição.",
+    "difficulty": 1
+  },
+  {
+    "id": "7-06",
+    "grade": "7",
+    "number": 6,
+    "page": 7,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Em um jogo eletrônico, um jogador recebe pontos ao concluir fases. A pontuação acumulada ao final de cada fase segue o padrão: 4, 8, 12, 16, 20, ... Considerando que n = 1 representa a primeira fase concluída, qual expressão representa essa sequência?",
+    "options": [
+      "n + 4",
+      "n + 4n",
+      "2n",
+      "4n"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Sequências",
+    "hint": "Compare cada pontuação com o número da fase.",
+    "explanation": "As pontuações são 4 vezes o número da fase: 4 × 1, 4 × 2, 4 × 3… A expressão é 4n.",
+    "difficulty": 2
+  },
+  {
+    "id": "7-07",
+    "grade": "7",
+    "number": 7,
+    "page": 8,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma igualdade foi representada por: 9 + 5 = 14 Em seguida, somou-se o número 3 a cada lado dessa igualdade. O que acontece com a igualdade após essas transformações?",
+    "options": [
+      "A igualdade continua verdadeira, pois a mesma operação foi realizada nos dois lados.",
+      "A igualdade deixa de ser verdadeira, pois os números foram alterados.",
+      "A igualdade só permanece verdadeira quando a operação é realizada em apenas um dos lados.",
+      "A igualdade passa a ser falsa porque os valores dos dois lados aumentam."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Álgebra",
+    "hint": "Calcule os dois lados depois de somar 3.",
+    "explanation": "(9 + 5) + 3 = 14 + 3. Os dois lados valem 17. Aplicar a mesma adição aos dois membros mantém a igualdade.",
+    "difficulty": 2
+  },
+  {
+    "id": "7-08",
+    "grade": "7",
+    "number": 8,
+    "page": 9,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A sequência 5, 8, 11, 14, ... é representada pela expressão Q = 3n + 2. Qual é o valor de Q quando n = 8?",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "26"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Sequências",
+    "hint": "Substitua n por 8 na expressão.",
+    "explanation": "Q = 3 × 8 + 2 = 24 + 2 = 26.",
+    "difficulty": 2
+  },
+  {
+    "id": "7-09",
+    "grade": "7",
+    "number": 9,
+    "page": 10,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um serviço de streaming cobra uma mensalidade de R$ 20,00 mais R$ 5,00 por tela adicional contratada. O valor total da mensalidade pode ser representado por M = 20 + 5n, em que n é o número de telas adicionais. Qual é o valor da mensalidade para 4 telas adicionais?",
+    "options": [
+      "R$ 20,00",
+      "R$ 25,00",
+      "R$ 40,00",
+      "R$ 45,00"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Álgebra",
+    "hint": "Some a mensalidade fixa ao custo das quatro telas.",
+    "explanation": "M = 20 + 5 × 4 = 20 + 20 = R$ 40,00.",
+    "difficulty": 2
+  },
+  {
+    "id": "7-10",
+    "grade": "7",
+    "number": 10,
+    "page": 11,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma plataforma de cursos online oferece um plano mensal composto por uma taxa fixa de R$ 20,00 mais R$ 8,00 por aula extra realizada. Em determinado mês, um estudante pagou R$ 68,00 pelo serviço. Qual equação representa corretamente essa situação, considerando x o número de aulas extras realizadas?",
+    "options": [
+      "8x + 20 = 68",
+      "8x + 68 = 20",
+      "20x + 8 = 68",
+      "68x + 8 = 20"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Separe o custo fixo do custo que depende das aulas.",
+    "explanation": "Cada aula custa 8 reais e a taxa fixa é 20 reais. Logo, 8x + 20 = 68.",
+    "difficulty": 2
+  },
+  {
+    "id": "7-11",
+    "grade": "7",
+    "number": 11,
+    "page": 12,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Durante uma competição escolar, uma equipe registrou sua pontuação ao final de cada rodada. A cada rodada, a pontuação da equipe aumentava sempre a mesma quantidade de pontos. Os valores registrados foram 12, __, 18, __, 24. Quais números completam corretamente a sequência?",
+    "options": [
+      "14 e 20",
+      "15 e 18",
+      "15 e 21",
+      "16 e 22"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Sequências",
+    "hint": "Entre 12 e 18 existem dois passos iguais.",
+    "explanation": "18 − 12 = 6 em dois passos; cada passo aumenta 3. A sequência completa é 12, 15, 18, 21, 24.",
+    "difficulty": 2
+  },
+  {
+    "id": "7-12",
+    "grade": "7",
+    "number": 12,
+    "page": 13,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "As cadeiras de um auditório estão organizadas em fileiras, e a quantidade de cadeiras em cada fileira segue a sequência: 5, 8, 11, __, 17 Qual número completa corretamente a sequência?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Sequências",
+    "hint": "Encontre a diferença entre duas fileiras seguidas.",
+    "explanation": "8 − 5 = 3 e 11 − 8 = 3. O próximo termo é 11 + 3 = 14.",
+    "difficulty": 2
+  },
+  {
+    "id": "7-13",
+    "grade": "7",
+    "number": 13,
+    "page": 14,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa de transporte turístico cobra uma taxa fixa de R$ 30,00 para cada reserva realizada e mais R$ 15,00 por passageiro. Um grupo recebeu uma cobrança total de R$ 120,00. Qual equação representa corretamente essa situação, considerando x o número de passageiros?",
+    "options": [
+      "15x + 30 = 120",
+      "15x + 120 = 30",
+      "30x + 15 = 120",
+      "30x + 120 = 15"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "O total junta a reserva e o valor de cada passageiro.",
+    "explanation": "São 30 reais fixos e 15 reais por passageiro. Portanto, 15x + 30 = 120.",
+    "difficulty": 3
+  },
+  {
+    "id": "7-14",
+    "grade": "7",
+    "number": 14,
+    "page": 15,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Em uma feira gastronômica da escola, uma barraca vendia porções de salada de frutas em recipientes de 1/2 kg. Ao final da manhã, a equipe organizadora verificou que já haviam sido vendidos 2 kg de salada. Após o intervalo, novas porções foram vendidas e o total comercializado passou a ser de 5 kg. Quantas porções de 1/2 kg foram vendidas após o intervalo?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Calcule quantos quilos foram vendidos depois do intervalo.",
+    "explanation": "Depois do intervalo foram vendidos 5 − 2 = 3 kg. Cada porção tem 1/2 kg. Assim, 3 ÷ 0,5 = 6 porções.",
+    "difficulty": 3
+  },
+  {
+    "id": "7-15",
+    "grade": "7",
+    "number": 15,
+    "page": 16,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma gráfica cobra uma taxa fixa de R$ 12,00 pela preparação de um pedido e mais R$ 4,00 por cópia impressa. Um cliente recebeu uma cobrança total de R$ 52,00. Quantas cópias foram impressas?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "13"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Retire a taxa fixa antes de dividir pelo preço da cópia.",
+    "explanation": "4x + 12 = 52 → 4x = 40 → x = 10 cópias.",
+    "difficulty": 3
+  },
+  {
+    "id": "7-16",
+    "grade": "7",
+    "number": 16,
+    "page": 17,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "No início do mês, Marcos estava com saldo negativo de R$ 120,00 em sua conta bancária. Durante esse período, ele recebeu R$ 250,00 por um trabalho temporário. Em seguida, pagou uma conta de R$ 80,00 e fez uma compra de R$ 50,00 em uma papelaria. A movimentação financeira está resumida no extrato bancário a seguir: Qual é o saldo final de Marcos após todas as movimentações?",
+    "options": [
+      "R$ 0,00",
+      "R$ 120,00",
+      "R$ 140,00",
+      "R$ 100,00"
+    ],
+    "correct": 0,
+    "images": [
+      {
+        "src": "assets/questions/7-16-1.webp",
+        "width": 350,
+        "height": 233,
+        "alt": "Extrato: saldo inicial −120; entrada +250; pagamento −80; compra −50 reais."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Comece pelo saldo negativo e siga os movimentos.",
+    "explanation": "−120 + 250 − 80 − 50 = 0. O saldo final é R$ 0,00.",
+    "difficulty": 3
+  },
+  {
+    "id": "7-17",
+    "grade": "7",
+    "number": 17,
+    "page": 18,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Lucas quer comprar um celular que custa R$ 1.200,00. Ele tem R$ 1.300,00 disponíveis na conta, mas sabe que precisará de R$ 350,00 para os gastos com transporte e alimentação até o fim do mês. Seu cartão de crédito tem limite de R$ 2.000,00, e ele já tem R$ 500,00 em compras na fatura atual. A loja oferece a opção de pagar à vista (débito ou Pix) ou parcelar em 4 vezes de R$ 300,00 sem juros no cartão de crédito. Considerando essa situação, qual é a forma de pagamento mais adequada e por quê?",
+    "options": [
+      "Pagar no débito, pois o valor sai na hora e evita dívidas futuras, mesmo reduzindo o dinheiro disponível para o mês.",
+      "Pagar via Pix, pois essa forma de pagamento mantém mais dinheiro disponível na conta para organizar melhor as despesas do mês.",
+      "Pagar no crédito parcelado, pois mantém dinheiro disponível agora, mas exige planejamento para pagar as parcelas depois.",
+      "Pagar no crédito, pois parcelar facilita a compra e diminui o impacto do valor total no orçamento."
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Compare o dinheiro que sobra à vista com os gastos do mês.",
+    "explanation": "À vista sobrariam 1.300 − 1.200 = 100 reais, menos que os 350 necessários. No cenário da questão, parcelar sem juros preserva o dinheiro imediato, mas exige planejar as próximas faturas.",
+    "difficulty": 3
+  },
+  {
+    "id": "7-18",
+    "grade": "7",
+    "number": 18,
+    "page": 19,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "João recebe R$ 1.500,00 por mês e utiliza parte desse valor para pagar despesas fixas. Com o dinheiro que conseguiu economizar, formou uma reserva de R$ 1.400,00. Agora, ele deseja comprar um computador para realizar atividades escolares e encontrou as seguintes opções de pagamento: Considerando o valor disponível e o custo total de cada opção, qual é a alternativa financeiramente mais adequada para João?",
+    "options": [
+      "Opção A, porque cabe no valor da reserva disponível e tem o menor custo total.",
+      "Opção B, porque a parcela é menor que o valor do produto.",
+      "Opção C, porque tem mais parcelas e, por isso, é sempre melhor.",
+      "Opção B, porque o valor total pago no crédito não precisa ser considerado."
+    ],
+    "correct": 0,
+    "images": [
+      {
+        "src": "assets/questions/7-18-1.webp",
+        "width": 430,
+        "height": 148,
+        "alt": "Opção A: Pix à vista R$ 1.350. B: 10 parcelas de R$ 160. C: 12 parcelas de R$ 150."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Calcule o custo total das três formas de pagamento.",
+    "explanation": "A: R$ 1.350. B: 10 × 160 = R$ 1.600. C: 12 × 150 = R$ 1.800. A cabe na reserva de R$ 1.400 e tem o menor total.",
+    "difficulty": 3
+  },
+  {
+    "id": "7-19",
+    "grade": "7",
+    "number": 19,
+    "page": 20,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Observe o anúncio de uma loja de bicicletas apresentado a seguir: Um estudante deseja escolher a opção que represente o menor gasto total, evitando pagar mais do que o necessário. Com base nas informações do anúncio, qual alternativa apresenta uma análise correta das duas formas de pagamento?",
+    "options": [
+      "O parcelamento é a melhor opção porque o valor de cada parcela é menor do que R$ 1.500,00.",
+      "O pagamento à vista custa R$ 1.350,00 e é mais barato que o parcelamento.",
+      "As duas opções apresentam o mesmo custo total, pois ambas se referem à compra da mesma bicicleta.",
+      "O parcelamento é mais vantajoso porque o desconto de 10% reduz apenas uma parcela do financiamento."
+    ],
+    "correct": 1,
+    "images": [
+      {
+        "src": "assets/questions/7-19-1.webp",
+        "width": 467,
+        "height": 311,
+        "alt": "Bicicleta: preço R$ 1.500; à vista com 10% de desconto; parcelada em 5 vezes de R$ 330."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Calcule o desconto e depois some todas as parcelas.",
+    "explanation": "À vista: 1.500 − 10% de 1.500 = R$ 1.350. Parcelado: 5 × 330 = R$ 1.650. À vista custa R$ 300 a menos.",
+    "difficulty": 3
+  },
+  {
+    "id": "7-20",
+    "grade": "7",
+    "number": 20,
+    "page": 21,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Carla possui R$ 5.000,00 para investir durante um ano. Ela se considera uma pessoa cuidadosa com seu dinheiro e prefere evitar riscos. As opções apresentadas foram: Qual investimento é mais adequado para o perfil de Carla?",
+    "options": [
+      "Opção A, porque oferece o maior ganho possível, independentemente do risco.",
+      "Opção B, porque tem rendimento maior, independentemente do risco.",
+      "Opção B, porque o risco é pequeno e não interfere de forma significativa na decisão.",
+      "Opção C, porque, apesar de ter um ganho menor, não apresenta risco de perda."
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/7-20-1.webp",
+        "width": 573,
+        "height": 237,
+        "alt": "Dados do exercício: A, ganho de até 20% ao ano e possibilidade significativa de perda; B, até 8% e pequena possibilidade de perda; C, 4% e descrita sem risco de perda."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Compare o risco de cada opção com o perfil descrito.",
+    "explanation": "Na tabela do exercício, a opção C apresenta ganho de 4% e é descrita sem risco de perda. É a que combina com o perfil cuidadoso de Carla. As condições são as do enunciado.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-01",
+    "grade": "9",
+    "number": 1,
+    "page": 2,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa de internet cobra uma taxa fixa de R$ 20,00 mais R$ 5,00 por gigabyte utilizado. Em determinado mês, um cliente pagou R$ 55,00. Quantos gigabytes foram utilizados pelo cliente?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Retire a taxa fixa e divida pelo preço por gigabyte.",
+    "explanation": "20 + 5x = 55 → 5x = 35 → x = 7 gigabytes.",
+    "difficulty": 1
+  },
+  {
+    "id": "9-02",
+    "grade": "9",
+    "number": 2,
+    "page": 3,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Em uma balança de dois pratos, em equilíbrio, um pacote de massa desconhecida e um peso de 9 kg equilibram outro prato com 25 kg. Qual é a massa do pacote?",
+    "options": [
+      "12 kg",
+      "14 kg",
+      "15 kg",
+      "16 kg"
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/9-02-1.webp",
+        "width": 211,
+        "height": 121,
+        "alt": "Balança em equilíbrio: pacote desconhecido mais 9 kg em um prato; 25 kg no outro."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Os dois pratos precisam ter a mesma massa.",
+    "explanation": "x + 9 = 25. Subtraindo 9 dos dois lados: x = 16 kg.",
+    "difficulty": 1
+  },
+  {
+    "id": "9-03",
+    "grade": "9",
+    "number": 3,
+    "page": 4,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma confecção vende camisetas personalizadas por R$ 12,00 cada. Ao final do dia, foram arrecadados R$ 300,00 com as vendas. Considerando x como a quantidade de camisetas vendidas, qual equação representa corretamente essa situação?",
+    "options": [
+      "12 + x = 300",
+      "12x = 300",
+      "x −12 = 300",
+      "12 + 300 = x"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Preço de cada camiseta vezes quantidade dá o total.",
+    "explanation": "Cada camiseta custa 12 reais. Vendendo x camisetas, arrecada-se 12x. Logo, 12x = 300.",
+    "difficulty": 1
+  },
+  {
+    "id": "9-04",
+    "grade": "9",
+    "number": 4,
+    "page": 5,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um terreno retangular apresenta largura igual a x metros e comprimento igual a (x + 5) metros, e sua área total é igual a 84 m². Observe a representação do terreno: Qual equação representa corretamente a área desse terreno?",
+    "options": [
+      "x(x + 5) = 84",
+      "x + (x + 5) = 84",
+      "x²+5 = 84",
+      "2x + 5 = 84"
+    ],
+    "correct": 0,
+    "images": [
+      {
+        "src": "assets/questions/9-04-1.webp",
+        "width": 245,
+        "height": 156,
+        "alt": "Retângulo com largura x, comprimento x + 5 e área de 84 m²."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "A área do retângulo é o produto das duas medidas.",
+    "explanation": "Largura x, comprimento x + 5 e área 84. Então x(x + 5) = 84.",
+    "difficulty": 1
+  },
+  {
+    "id": "9-05",
+    "grade": "9",
+    "number": 5,
+    "page": 6,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Durante uma feira de ciências, um estudante construiu uma moldura retangular para um painel. A largura da moldura mede x metros e o comprimento mede 3 metros a mais que a largura. Sabendo que a área total da moldura é 54 m², o estudante precisa representar essa situação por meio de uma equação. Qual equação representa corretamente a situação descrita?",
+    "options": [
+      "x + x + 3 = 54",
+      "x² + 3 = 54",
+      "x(x + 3) = 54",
+      "2x + 3 = 54"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "Escreva o comprimento usando a largura x.",
+    "explanation": "O comprimento é x + 3. Multiplicando largura e comprimento, a equação é x(x + 3) = 54.",
+    "difficulty": 1
+  },
+  {
+    "id": "9-06",
+    "grade": "9",
+    "number": 6,
+    "page": 7,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma prefeitura pretende construir uma praça quadrada em um terreno urbano. No projeto apresentado pelos engenheiros, a área total da praça será de 81 m². Qual será a medida do lado dessa praça?",
+    "options": [
+      "7 m",
+      "8 m",
+      "9 m",
+      "10 m"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "Qual número positivo multiplicado por ele mesmo dá 81?",
+    "explanation": "A = lado². Como 9 × 9 = 81, o lado mede 9 m.",
+    "difficulty": 2
+  },
+  {
+    "id": "9-07",
+    "grade": "9",
+    "number": 7,
+    "page": 8,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa que fabrica garrafas reutilizáveis utiliza um modelo matemático para estimar seu lucro. Segundo esse modelo, o lucro L, em reais, é dado por: L = x² − 25 em que x representa a quantidade de garrafas produzidas em um determinado período. Quantas unidades devem ser produzidas, considerando apenas o valor positivo de x, para que o lucro seja igual a zero?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Iguale o lucro a zero e isole x².",
+    "explanation": "x² − 25 = 0 → x² = 25. As raízes são −5 e 5; a quantidade positiva é 5 unidades.",
+    "difficulty": 2
+  },
+  {
+    "id": "9-08",
+    "grade": "9",
+    "number": 8,
+    "page": 9,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "O piso quadrado de uma sala apresenta área igual a 100 cm², conforme mostra a figura a seguir. Sabendo que a medida do lado é representada por (x), qual equação representa essa situação?",
+    "options": [
+      "x² = 100",
+      "x + 100 = 0",
+      "2x = 100",
+      "x² + 100 = 0"
+    ],
+    "correct": 0,
+    "images": [
+      {
+        "src": "assets/questions/9-08-1.webp",
+        "width": 178,
+        "height": 177,
+        "alt": "Quadrado de lado x e área de 100 cm²."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "A área de um quadrado é o lado ao quadrado.",
+    "explanation": "Com lado x e área 100 cm², a equação é x² = 100.",
+    "difficulty": 2
+  },
+  {
+    "id": "9-09",
+    "grade": "9",
+    "number": 9,
+    "page": 10,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa de jardinagem construirá um canteiro retangular em uma praça. O comprimento será (x + 5) metros e a largura será (x + 2) metros. Sabendo que a área do canteiro deve ser 84 m², qual equação representa essa situação?",
+    "options": [
+      "x + (x + 2) + (x + 5) = 84",
+      "(x + 2)(x + 5) = 84",
+      "x²+7x + 10 = 0",
+      "2x + 7 = 84"
+    ],
+    "correct": 1,
+    "images": [
+      {
+        "src": "assets/questions/9-09-1.webp",
+        "width": 343,
+        "height": 229,
+        "alt": "Retângulo com lados x + 2 e x + 5, área de 84 m²."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "Multiplique o comprimento pela largura.",
+    "explanation": "A área é (x + 2)(x + 5). Como ela vale 84, a equação é (x + 2)(x + 5) = 84.",
+    "difficulty": 2
+  },
+  {
+    "id": "9-10",
+    "grade": "9",
+    "number": 10,
+    "page": 11,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Para um projeto de revitalização da praça do bairro, estudantes observaram que a multiplicação das medidas dos lados dos dois canteiros poderia ser representada por (x + 4)(x −4), que é equivalente a qual das expressões abaixo?",
+    "options": [
+      "x² + 16",
+      "x²–8x + 16",
+      "x²–16",
+      "x² + 8x + 16"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Álgebra",
+    "hint": "Use o produto da soma pela diferença.",
+    "explanation": "(x + 4)(x − 4) = x² − 4x + 4x − 16 = x² − 16.",
+    "difficulty": 2
+  },
+  {
+    "id": "9-11",
+    "grade": "9",
+    "number": 11,
+    "page": 12,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma praça tem formato quadrado e lado medindo x metros. Em torno de toda a praça, foi construída uma calçada de largura constante igual a 6 metros. A figura formada pela praça e pela calçada também é um quadrado. Qual expressão representa a área total da figura?",
+    "options": [
+      "x² + 12",
+      "(x + 6)²",
+      "x²",
+      "(x + 12)²"
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/9-11-1.webp",
+        "width": 395,
+        "height": 356,
+        "alt": "Praça quadrada de lado x cercada por uma calçada de largura 6 m nos quatro lados."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "A calçada acrescenta 6 metros em cada lado oposto.",
+    "explanation": "O lado externo mede x + 6 + 6 = x + 12. A área total é (x + 12)².",
+    "difficulty": 2
+  },
+  {
+    "id": "9-12",
+    "grade": "9",
+    "number": 12,
+    "page": 13,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa de tecnologia lançou um aplicativo que atribui uma pontuação aos usuários. Em determinado desafio, a pontuação final é calculada pela equação x² + 7x + 12 = 0. Para concluir a etapa, o usuário deve encontrar os valores de x que tornam a equação verdadeira. Quais são as soluções dessa equação?",
+    "options": [
+      "x = –3 e x = –4",
+      "x = 2 e x = 6",
+      "x = 3 e x = 4",
+      "x = −2 e x = 4"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Procure dois números com soma −7 e produto 12.",
+    "explanation": "x² + 7x + 12 = (x + 3)(x + 4). O produto é zero quando x = −3 ou x = −4.",
+    "difficulty": 2
+  },
+  {
+    "id": "9-13",
+    "grade": "9",
+    "number": 13,
+    "page": 14,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um estudante programou uma calculadora para resolver automaticamente equações do segundo grau. Para testar o programa, ele digitou a equação x² −5x + 6 = 0. Agora, deseja verificar se o resultado obtido pela calculadora está correto. Quais são as raízes dessa equação?",
+    "options": [
+      "1 e 6",
+      "2 e 3",
+      "-2 e -3",
+      "-1 e -6"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Procure dois números com soma 5 e produto 6.",
+    "explanation": "x² − 5x + 6 = (x − 2)(x − 3). Portanto, as raízes são 2 e 3.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-14",
+    "grade": "9",
+    "number": 14,
+    "page": 15,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa de arquitetura utiliza modelos matemáticos para estimar áreas de construções. Em determinado projeto, surgiu a equação x² −6x + 8 = 0 . Para prosseguir com os cálculos, é necessário determinar os valores de x que satisfazem a equação. Os valores de x que satisfazem essa equação são",
+    "options": [
+      "2 e 4.",
+      "–2 e –4.",
+      "1 e 8.",
+      "–1 e –8."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Procure dois números com soma 6 e produto 8.",
+    "explanation": "x² − 6x + 8 = (x − 2)(x − 4). As raízes são 2 e 4.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-15",
+    "grade": "9",
+    "number": 15,
+    "page": 16,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Para o desenvolvimento de um software de modelagem gráfica, uma expressão matemática foi utilizada para representar a trajetória de um objeto virtual: x² + 4x + 8 = 0. Antes de executar a simulação, a equipe precisou verificar se essa equação apresenta soluções reais. Sobre as soluções da equação, é correto afirmar que ela",
+    "options": [
+      "apresenta duas raízes reais diferentes.",
+      "apresenta uma única raiz real.",
+      "não apresenta raízes reais.",
+      "apresenta infinitas soluções reais."
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Calcule Δ = b² − 4ac e observe o sinal.",
+    "explanation": "Δ = 4² − 4 × 1 × 8 = 16 − 32 = −16. Como Δ é negativo, a equação não tem raízes reais.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-16",
+    "grade": "9",
+    "number": 16,
+    "page": 17,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Em uma competição de robótica, os estudantes precisavam programar um robô para identificar automaticamente as soluções de determinadas equações. Uma das equações inseridas no sistema foi x² −7x + 12 = 0. Para verificar se o programa estava funcionando corretamente, a equipe decidiu calcular as raízes. Quais são as raízes?",
+    "options": [
+      "x = 2 e x = 6",
+      "x = –2 e x = –6",
+      "x = –3 e x = –4",
+      "x = 3 e x = 4"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Procure dois números com soma 7 e produto 12.",
+    "explanation": "x² − 7x + 12 = (x − 3)(x − 4). As raízes são 3 e 4.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-17",
+    "grade": "9",
+    "number": 17,
+    "page": 18,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa de energia desenvolveu um software para prever o consumo mensal de uma residência. Em determinado teste, o programa gerou a seguinte equação: x² −9x + 20 = 0. Quais são as raízes dessa equação?",
+    "options": [
+      "x = 4 e x = 5",
+      "x = 2 e x = 10",
+      "x = –4 e x = –5",
+      "x = 1 e x = 20"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Procure dois números com soma 9 e produto 20.",
+    "explanation": "x² − 9x + 20 = (x − 4)(x − 5). As raízes são 4 e 5.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-18",
+    "grade": "9",
+    "number": 18,
+    "page": 19,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Durante os testes de uma fonte decorativa instalada em uma praça, a altura do jato de água, em metros, foi modelada pela expressão h(t) = –t² + 6t, em que t representa o tempo, em segundos, após o acionamento da fonte. A equipe responsável pela manutenção deseja saber em quais instantes a água atinge exatamente 8 metros de altura. Qual conjunto representa corretamente todos os instantes em que a água atinge 8 metros de altura?",
+    "options": [
+      "S = {1, 5}",
+      "S = {4, 8}",
+      "S = {3}",
+      "S = {2, 4}"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Substitua a altura por 8 e organize a equação.",
+    "explanation": "−t² + 6t = 8 → t² − 6t + 8 = 0 → (t − 2)(t − 4) = 0. Os instantes são 2 s e 4 s.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-19",
+    "grade": "9",
+    "number": 19,
+    "page": 20,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Em um torneio escolar, o número de participantes de duas equipes foi analisado. Sabe-se que o produto entre as quantidades de participantes das equipes é 48 e que a soma dessas quantidades é 14. Representando por x o número de participantes de uma das equipes, pode-se modelar a situação pela equação x² −14x + 48 = 0. Quais valores de x satisfazem essa equação?",
+    "options": [
+      "4 e 10",
+      "6 e 8",
+      "2 e 12",
+      "3 e 16"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Procure dois números cujo produto seja 48 e a soma, 14.",
+    "explanation": "6 × 8 = 48 e 6 + 8 = 14. Logo, x = 6 ou x = 8.",
+    "difficulty": 3
+  },
+  {
+    "id": "9-20",
+    "grade": "9",
+    "number": 20,
+    "page": 21,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa utiliza um modelo matemático para analisar o ponto de equilíbrio de uma operação financeira, representado pela equação x²–4x + 4 = 0. Antes de prosseguir com a análise, foi necessário verificar se existem valores reais que satisfaçam essa equação. Sobre suas soluções, é correto afirmar que:",
+    "options": [
+      "apresenta duas raízes reais distintas.",
+      "apresenta uma única raiz real.",
+      "não apresenta raízes reais.",
+      "apresenta infinitas soluções reais."
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Tente escrever a expressão como um quadrado perfeito.",
+    "explanation": "x² − 4x + 4 = (x − 2)². Só x = 2 zera a expressão: uma única raiz real, de multiplicidade 2.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-01",
+    "grade": "em1",
+    "number": 1,
+    "page": 2,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um reservatório de água está sendo utilizado para irrigação. Durante esse processo, o volume de água armazenado diminui à razão de 5 litros por hora. A relação entre o volume de água restante no reservatório e o tempo transcorrido pode ser modelada matematicamente por uma função afim. Com base no comportamento dessa situação, como essa função afim é classificada e qual é a característica de sua taxa de variação?",
+    "options": [
+      "Crescente, pois a taxa de variação da função afim é positiva.",
+      "Decrescente, pois a taxa de variação da função afim é negativa.",
+      "Constante, pois a taxa de variação da função afim é nula.",
+      "Crescente, pois a taxa de variação da função afim é negativa.",
+      "Decrescente, pois a taxa de variação da função afim é nula."
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Observe se a quantidade de água sobe ou cai com o tempo.",
+    "explanation": "A cada hora há 5 litros a menos. A taxa é −5 L/h, negativa; a função é decrescente.",
+    "difficulty": 1
+  },
+  {
+    "id": "em1-02",
+    "grade": "em1",
+    "number": 2,
+    "page": 4,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "O valor cobrado por um serviço de transporte por aplicativo é composto por uma taxa fixa inicial, chamada de \"bandeirada\", somada a um valor variável que depende da distância percorrida pelo passageiro. A lei de formação da função afim que modela o valor total y (em reais) da corrida em função da distância x (em quilômetros) é dada por y = 2x + 5. Ao analisar o comportamento matemático dessa cobrança, qual das descrições a seguir identifica corretamente a representação gráfica dessa função polinomial do 1º grau no plano cartesiano?",
+    "options": [
+      "Uma reta crescente que intercepta o eixo y no ponto (0, 5) e intercepta o eixo x no ponto (−5/2 , 0) .",
+      "Uma reta decrescente que intercepta o eixo y no ponto (0, 5) e intercepta o eixo x no ponto (−5/2 , 0) .",
+      "Uma reta crescente que intercepta o eixo y no ponto (−5/2 , 0) e intercepta o eixo x no ponto (0, 5).",
+      "Uma reta constante que intercepta o eixo y no ponto (0, 5) e intercepta o eixo x no ponto (2, 0).",
+      "Uma reta decrescente que intercepta o eixo y no ponto (−5/2 , 0) e intercepta o eixo x no ponto (0, 5)."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Em y = ax + b, a define o crescimento e b é o intercepto em y.",
+    "explanation": "a = 2 > 0: reta crescente. Para x = 0, y = 5. Para y = 0, 2x + 5 = 0 → x = −5/2. Os interceptos são (0, 5) e (−5/2, 0).",
+    "difficulty": 1
+  },
+  {
+    "id": "em1-03",
+    "grade": "em1",
+    "number": 3,
+    "page": 6,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa de mobilidade urbana lançou um novo serviço de transporte por aplicativo. O valor cobrado por corrida é composto por uma taxa fixa, acrescida de uma tarifa variável proporcional à distância percorrida. Para divulgar a forma de cobrança, a empresa apresentou o gráfico a seguir, que representa a relação entre o valor total pago y (em reais) e a distância percorrida x (em quilômetros). Considerando as características da reta representada no plano e a relação entre essas grandezas, qual é a lei de formação da função polinomial do 1º grau que modela matematicamente o valor cobrado por esse serviço de transporte?",
+    "options": [
+      "y = x + 5",
+      "y = 10x + 5",
+      "y = 5x",
+      "y = 5x + 5",
+      "y = 5x + 10"
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/em1-03-1.webp",
+        "width": 402,
+        "height": 401,
+        "alt": "Gráfico de uma reta crescente que passa pelos pontos (0, 5) e (1, 10)."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Use dois pontos da reta para calcular a inclinação.",
+    "explanation": "A reta passa por (0, 5) e (1, 10). A taxa é (10 − 5)/(1 − 0) = 5 e a taxa fixa é 5. Assim, y = 5x + 5.",
+    "difficulty": 1
+  },
+  {
+    "id": "em1-04",
+    "grade": "em1",
+    "number": 4,
+    "page": 8,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um técnico em manutenção de computadores adota um critério padrão para cobrar por seus serviços prestados em domicílio. Ele cobra um valor fixo de R$ 60,00 referente à visita (deslocamento até a casa do cliente), somado a um valor variável de R$ 40,00 por hora trabalhada no conserto da máquina. Com base nessas informações, qual é a lei de formação da função afim que modela o valor total y (em reais) cobrado por esse técnico em relação à quantidade x de horas trabalhadas?",
+    "options": [
+      "y = 60x −40",
+      "y = 60x + 40",
+      "y = 100x",
+      "y = 40x −60",
+      "y = 40x + 60"
+    ],
+    "correct": 4,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "O custo da visita não depende da quantidade de horas.",
+    "explanation": "São 40 reais por hora mais 60 reais fixos: y = 40x + 60.",
+    "difficulty": 1
+  },
+  {
+    "id": "em1-05",
+    "grade": "em1",
+    "number": 5,
+    "page": 10,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um engenheiro de produção realiza o monitoramento da diminuição contínua do nível de água de um reservatório. Em uma primeira medição, realizada às 14h15, o nível da água estava a 2,40 metros do fundo do reservatório. Às 15h35, uma nova medição indicou que o nível havia baixado para 2,16 metros. Considerando que a variação do nível da água ocorre de forma constante e caracteriza uma função afim, qual é a taxa de variação desse nível em milímetros por minuto?",
+    "options": [
+      "0,3 mm/min",
+      "−2 mm/min",
+      "−0,3 mm/min",
+      "-3 mm/min",
+      "3 mm/min"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Converta a diferença de nível em milímetros e o tempo em minutos.",
+    "explanation": "De 14h15 a 15h35 passam 80 min. O nível varia 2,16 − 2,40 = −0,24 m = −240 mm. Taxa = −240/80 = −3 mm/min.",
+    "difficulty": 1
+  },
+  {
+    "id": "em1-06",
+    "grade": "em1",
+    "number": 6,
+    "page": 12,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um vendedor de uma loja de eletrônicos recebe um salário mensal composto por duas partes: um valor fixo de R$ 1.500,00 e uma comissão variável de R$ 50,00 para cada produto vendido ao longo do mês. Em um determinado mês, esse vendedor recebeu um salário total de R$ 3.200,00. Com base nas informações apresentadas, qual foi a quantidade de produtos vendidos por ele naquele mês?",
+    "options": [
+      "30",
+      "34",
+      "64",
+      "94",
+      "1700"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Retire o salário fixo e divida pela comissão de cada venda.",
+    "explanation": "1.500 + 50x = 3.200 → 50x = 1.700 → x = 34 produtos.",
+    "difficulty": 2
+  },
+  {
+    "id": "em1-07",
+    "grade": "em1",
+    "number": 7,
+    "page": 14,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Durante uma competição de ciências na escola, um grupo de estudantes construiu um foguete de garrafa PET movido a água e a ar comprimido. O lançamento foi realizado a partir de uma plataforma elevada. A trajetória desse foguete descreveu uma curva no ar, e sua altura h (em metros) em relação ao solo, em função do tempo t (em segundos) após o lançamento, foi modelada pela seguinte função polinomial do 2º grau: h(t) = −2t2 + 8t + 10 Ao converter essa representação algébrica para uma representação geométrica, qual das descrições a seguir identifica corretamente as características do gráfico que modela a altura desse foguete no plano cartesiano?",
+    "options": [
+      "Uma parábola com concavidade voltada para baixo, interceptando o eixo y no valor 10.",
+      "Uma parábola com concavidade voltada para cima, interceptando o eixo y no valor 10.",
+      "Uma parábola com concavidade voltada para baixo, interceptando o eixo y no valor 0.",
+      "Uma parábola com concavidade voltada para cima, interceptando o eixo y no valor 0.",
+      "Uma reta decrescente, interceptando o eixo y no valor 10."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Olhe o sinal de t² e o valor quando t = 0.",
+    "explanation": "O coeficiente −2 torna a parábola côncava para baixo. Em t = 0, h = 10: ela intercepta o eixo vertical em 10.",
+    "difficulty": 2
+  },
+  {
+    "id": "em1-08",
+    "grade": "em1",
+    "number": 8,
+    "page": 16,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "O projeto de paisagismo de uma praça inclui um chafariz cujo jato de água descreve uma trajetória parabólica perfeitamente simétrica. Para otimizar o sistema de bombeamento, um engenheiro representou o movimento desse jato de água no plano cartesiano, no qual os valores de x e y são medidos em metros. Ao analisar os elementos visuais desse gráfico (como a concavidade, o ponto de partida e a distância em que a água atinge o chão), identifica-se que a lei de formação da função polinomial do 2º grau que descreve a trajetória do jato de água é:",
+    "options": [
+      "y = x² −4x",
+      "y = −x² + 4x",
+      "y = −x² −4x",
+      "y = −x² + 4",
+      "y = x² + 4x"
+    ],
+    "correct": 1,
+    "images": [
+      {
+        "src": "assets/questions/em1-08-1.webp",
+        "width": 525,
+        "height": 384,
+        "alt": "Parábola com concavidade para baixo, raízes x = 0 e x = 4, vértice (2, 4)."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Observe as raízes e para onde a parábola se abre.",
+    "explanation": "A parábola abre para baixo e cruza x em 0 e 4. A função y = −x² + 4x = −x(x − 4) tem essas características e vértice (2, 4).",
+    "difficulty": 2
+  },
+  {
+    "id": "em1-09",
+    "grade": "em1",
+    "number": 9,
+    "page": 18,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um atleta chuta uma bola para o alto durante um treino. A trajetória descrita pela bola no ar pode ser modelada matematicamente por uma função polinomial do 2º grau cuja lei de formação é dada por: h(t) = −2t2 + 8t Nessa função, h representa a altura da bola em metros e t representa o tempo decorrido em segundos desde o momento do chute. Ao analisar a lei de formação dessa função e imaginar a sua representação geométrica no plano cartesiano, os valores corretos para a concavidade da parábola, a equação do eixo de simetria e as coordenadas do vértice (ponto de altura máxima) são, respectivamente:",
+    "options": [
+      "Concavidade para baixo; eixo de simetria t=0; vértice V(4, 0).",
+      "Concavidade para cima; eixo de simetria t=2; vértice V(2, 8).",
+      "Concavidade para baixo; eixo de simetria t=4; vértice V(4, 0).",
+      "Concavidade para baixo; eixo de simetria t=2; vértice V(2, 8).",
+      "Concavidade para cima; eixo de simetria t=−2; vértice V(−2, −8)."
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Use t do vértice = −b/(2a) e substitua na função.",
+    "explanation": "a = −2: concavidade para baixo. tᵥ = −8/(2 × −2) = 2. h(2) = −8 + 16 = 8. Eixo t = 2 e vértice (2, 8).",
+    "difficulty": 2
+  },
+  {
+    "id": "em1-10",
+    "grade": "em1",
+    "number": 10,
+    "page": 20,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Maria Júlia tem uma horta com formato inicial quadrado e pretende aumentar o comprimento em 3 metros, mantendo a largura original. Com essa ampliação, a horta passará a ter um formato retangular com uma área total de 180 metros quadrados. O modelo matemático que representa as dimensões e a área dessa nova horta é a seguinte equação polinomial do 2º grau: x² + 3x −180 = 0 em que x representa a medida original do lado da horta de Maria Júlia. Sabendo que em contextos que envolvem medidas de comprimento, as soluções negativas de uma equação matemática devem ser descartadas por não fazerem sentido físico, qual era a medida original do lado da horta, em metros?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "36",
+      "108"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Fatore a equação e descarte a medida negativa.",
+    "explanation": "x² + 3x − 180 = (x + 15)(x − 12). As soluções são −15 e 12. Uma medida de comprimento positiva dá x = 12 m.",
+    "difficulty": 2
+  },
+  {
+    "id": "em1-11",
+    "grade": "em1",
+    "number": 11,
+    "page": 22,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A direção de uma escola de Ensino Médio decidiu revitalizar um espaço ocioso no pátio, construindo um jardim retangular encostado no muro do prédio principal. Para cercar o jardim e protegê-lo, a escola comprou exatamente 24 metros lineares de uma tela de proteção. Como o muro da escola já servirá como um dos lados do retângulo, a tela comprada será utilizada apenas para cercar os outros três lados restantes (duas larguras e um comprimento). Considerando que a medida da largura desse jardim seja representada por x (em metros), qual é a lei de formação da função A(x) que descreve a área desse jardim em função da medida de sua largura?",
+    "options": [
+      "A(x) = −x² + 24",
+      "A(x) = x² + 24x",
+      "A(x) = −2x2 + 24x",
+      "A(x) = −2x2 + 12",
+      "A(x) = 2x + 24"
+    ],
+    "correct": 2,
+    "images": [
+      {
+        "src": "assets/questions/em1-11-1.webp",
+        "width": 770,
+        "height": 239,
+        "alt": "Jardim retangular encostado no muro. A tela cerca duas larguras x e um comprimento; o lado junto ao muro fica sem tela."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Das 24 unidades de tela, duas larguras consomem 2x.",
+    "explanation": "Se o comprimento é c, 2x + c = 24, então c = 24 − 2x. A área é x(24 − 2x) = −2x² + 24x.",
+    "difficulty": 2
+  },
+  {
+    "id": "em1-12",
+    "grade": "em1",
+    "number": 12,
+    "page": 24,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um engenheiro de materiais está testando a resistência de uma nova liga metálica em laboratório. Durante as simulações por computador, o modelo matemático que descreve a tensão estrutural T (em megapascal) em um ponto crítico da peça, em função da força x aplicada, gerou a seguinte equação polinomial do 2º grau: x² + 36 = 0 Para verificar se existe alguma força real x capaz de anular a tensão nesse ponto (ou seja, tornar a equação verdadeira), o engenheiro precisa resolver matematicamente esse modelo. Ao resolver a equação e avaliar a quais conjuntos numéricos pertencem as suas soluções, conclui-se que",
+    "options": [
+      "a equação possui duas soluções reais e distintas, pois sua resolução apresenta uma raiz quadrada de um número positivo.",
+      "a equação possui apenas uma solução real, por se tratar de uma equação incompleta.",
+      "a equação não admite solução no conjunto dos números reais, pois sua resolução conduz à raiz quadrada de um número negativo.",
+      "a equação possui infinitas soluções no conjunto dos números reais, pois todo número elevado ao quadrado resulta em um valor positivo.",
+      "a equação possui duas soluções reais e distintas, pois sua resolução apresenta uma raiz quadrada de um número negativo."
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "Isole x² e pense no quadrado de um número real.",
+    "explanation": "x² = −36. O quadrado de qualquer número real é maior ou igual a zero. Por isso não há solução real.",
+    "difficulty": 2
+  },
+  {
+    "id": "em1-13",
+    "grade": "em1",
+    "number": 13,
+    "page": 26,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "O setor financeiro de uma empresa elaborou um modelo matemático para analisar o lucro L, em milhares de reais, obtido com a venda de x centenas de peças de um novo produto. A função polinomial do 2º grau que descreve esse lucro é dada pela lei de formação: L(x) = −x² + 7x −10 Para facilitar a apresentação dos resultados aos diretores, o setor financeiro precisou converter essa expressão algébrica em um gráfico no plano cartesiano. Considerando as características matemáticas dessa lei de formação, o gráfico que representa corretamente essa situação é uma parábola com a concavidade voltada para",
+    "options": [
+      "baixo, tendo seu ponto de lucro máximo no valor +10.",
+      "cima, interceptando o eixo vertical dos lucros no valor –10.",
+      "baixo, interceptando o eixo horizontal das peças no valor –10.",
+      "cima, interceptando o eixo vertical dos lucros no valor +10.",
+      "baixo, interceptando o eixo vertical dos lucros no valor –10."
+    ],
+    "correct": 4,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "O sinal de x² define a concavidade; calcule L(0).",
+    "explanation": "O coeficiente de x² é −1: a parábola abre para baixo. L(0) = −10, logo o intercepto vertical é −10.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-14",
+    "grade": "em1",
+    "number": 14,
+    "page": 28,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A prefeitura de uma cidade possui um canteiro retangular de flores que mede 5 metros de largura por 8 metros de comprimento. Para revitalizar a praça, um paisagista propôs ampliar esse canteiro adicionando uma mesma medida x, em metros, tanto na largura quanto no comprimento, mantendo o seu formato retangular. Com essa ampliação, a nova área total do canteiro passará a ser de 108 metros quadrados. Considerando as informações dadas, qual deve ser a exata medida x adicionada a cada dimensão do canteiro?",
+    "options": [
+      "4",
+      "13",
+      "17",
+      "34",
+      "68"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Equações",
+    "hint": "As novas dimensões são 5 + x e 8 + x.",
+    "explanation": "(5 + x)(8 + x) = 108 → x² + 13x − 68 = 0 → (x + 17)(x − 4) = 0. A ampliação positiva é 4 m.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-15",
+    "grade": "em1",
+    "number": 15,
+    "page": 30,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um biólogo está monitorando a temperatura de uma estufa agrícola para garantir o desenvolvimento saudável de uma nova espécie de planta. Ele observou que a temperatura T da estufa (em graus Celsius), em função da hora h do dia, variou de acordo com a seguinte função quadrática: T(h) = −h2 + 24h −108 Para que a planta absorva os nutrientes corretamente, o sistema de irrigação automático deve ser acionado exatamente no momento em que a estufa atinge a marca de 35 graus Celsius. Com base nesse modelo matemático, em quais horários daquele dia a temperatura da estufa era de exatamente 35 graus Celsius?",
+    "options": [
+      "Apenas às 12h.",
+      "Às 6h e às 18h.",
+      "Às 11h e às 13h.",
+      "Às 10h e às 14h.",
+      "Apenas às 24h."
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções",
+    "hint": "Iguale a temperatura a 35 e resolva a equação.",
+    "explanation": "−h² + 24h − 108 = 35 → h² − 24h + 143 = 0 → (h − 11)(h − 13) = 0. Os horários são 11h e 13h.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-16",
+    "grade": "em1",
+    "number": 16,
+    "page": 32,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A família de Lucas decidiu anotar todos os seus gastos mensais para criar uma planilha de controle do orçamento familiar e entender para onde o dinheiro está indo. A renda mensal total da família é de R$ 3.800,00. A seguir, é exibida a lista com as despesas mensais registradas ao final do mês: Com base nos dados apresentados, calcule o valor total das despesas mensais e compare-o com a renda da família. Qual é a situação financeira desse orçamento familiar no final do mês?",
+    "options": [
+      "As despesas totalizam R$ 3.400,00, resultando em um saldo positivo (superávit) de R$ 400,00.",
+      "As despesas totalizam R$ 4.000,00, resultando em um saldo positivo de R$ 200,00.",
+      "As despesas totalizam R$ 4.000,00, resultando em um saldo negativo (déficit) de R$ 200,00.",
+      "As despesas totalizam R$ 3.800,00, igualando−se à renda, o que significa uma situação financeira confortável.",
+      "As despesas totalizam R$ 2.800,00, resultando em um saldo positivo de R$ 1.000,00."
+    ],
+    "correct": 2,
+    "images": [
+      {
+        "src": "assets/questions/em1-16-1.webp",
+        "width": 572,
+        "height": 304,
+        "alt": "Despesas em reais: moradia 1.500; alimentação 1.000; transporte 300; internet e streaming 200; compras diversas 400; delivery 600."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Some todas as despesas e subtraia esse total da renda.",
+    "explanation": "1.500 + 1.000 + 300 + 200 + 400 + 600 = R$ 4.000. Saldo = 3.800 − 4.000 = −R$ 200: déficit.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-17",
+    "grade": "em1",
+    "number": 17,
+    "page": 34,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A família Lima está acompanhando seu orçamento para entender o impacto do aumento do custo de vida (inflação) em suas finanças. A renda mensal da família é fixa no valor de R$ 3.500,00. Eles organizaram uma tabela comparando os gastos do Mês 1 com os do Mês 2, em que os preços de itens essenciais subiram. Ao comparar os dois meses e analisar a relação entre as despesas e a renda fixa da família, qual foi o impacto gerado pelo aumento de preços no Mês 2 e qual deve ser a prioridade de consumo adotada para reequilibrar o orçamento?",
+    "options": [
+      "Reduzir os gastos classificados como supérfluos como delivery ou roupas em pelo menos R$ 120,00, a fim de cobrir o déficit gerado no Mês 2.",
+      "Reduzir as despesas em R$ 250,00, valor que corresponde ao déficit financeiro gerado na renda familiar ao final do Mês 2.",
+      "Diminuir o consumo de supermercado em R$ 150,00, pois a leitura da tabela indica que esse foi o único item que sofreu aumento de preço no período.",
+      "Manter o atual padrão de consumo, uma vez que as despesas totais do Mês 2 alcançaram exatamente R$ 3.500,00, igualando-se à renda fixa.",
+      "Eliminar os gastos com streaming, pois o seu valor mensal (R$ 120,00) corresponde à exata diferença matemática entre o aluguel do Mês 1 e o do Mês 2."
+    ],
+    "correct": 0,
+    "images": [
+      {
+        "src": "assets/questions/em1-17-1.webp",
+        "width": 462,
+        "height": 278,
+        "alt": "Mês 1 / Mês 2, em reais: aluguel 1.500/1.600; supermercado 900/1.050; transporte 300/300; streaming 120/120; roupas 250/250; delivery 300/300."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Some os gastos do Mês 2 e compare com R$ 3.500.",
+    "explanation": "Mês 2: 1.600 + 1.050 + 300 + 120 + 250 + 300 = R$ 3.620. O déficit é R$ 120. No cenário apresentado, cortar ao menos R$ 120 de gastos não essenciais reequilibra o orçamento.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-18",
+    "grade": "em1",
+    "number": 18,
+    "page": 36,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um jovem trabalhador deseja adquirir sua primeira moto para facilitar a locomoção diária. Ao chegar à concessionária, ele verifica que o preço original de tabela da moto é de R$ 16.500,00. Para fechar o negócio, o vendedor apresenta duas opções de pagamento: - Opção 1 (Pagamento à vista): Com a aplicação de um desconto à vista, o valor final da moto cai para R$ 15.000,00. - Opção 2 (Financiamento): Pagamento de uma entrada no valor de R$ 2.500,00 e o restante dividido em 48 parcelas fixas de R$ 380,00. O jovem quer escolher a alternativa que represente o menor gasto real. Considerando as duas propostas apresentadas, qual é a diferença entre os valores da opção 1 e da opção 2 e qual delas é a mais econômica?",
+    "options": [
+      "O pagamento à vista é a opção mais econômica, gerando uma diferença de R$ 3.240,00, pois o valor pago como entrada não deve ser somado ao custo total gerado pelas parcelas mensais.",
+      "O pagamento à vista é a opção mais econômica, gerando uma diferença de R$ 5.740,00, pois o custo real do financiamento exige a soma da entrada com todas as parcelas multiplicadas.",
+      "O pagamento à vista é a opção mais econômica, gerando uma diferença de R$ 4.240,00, pois a vantagem financeira deve ser calculada subtraindo o total parcelado do preço original de tabela.",
+      "O financiamento é a opção mais econômica, gerando uma diferença de R$ 1.500,00, pois o desconto aplicado pela concessionária na compra à vista neutraliza os juros embutidos ao longo dos meses.",
+      "O financiamento é a opção mais econômica, gerando uma diferença de R$ 1.740,00, pois as parcelas fixas diluem o preço original da moto e evitam o acúmulo de juros sobre o comprador."
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "No financiamento, conte a entrada e todas as parcelas.",
+    "explanation": "Financiamento: 2.500 + 48 × 380 = R$ 20.740. À vista: R$ 15.000. Diferença: 20.740 − 15.000 = R$ 5.740, a favor do pagamento à vista.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-19",
+    "grade": "em1",
+    "number": 19,
+    "page": 38,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A família de Mariana possui uma renda mensal fixa de R$ 6.000,00. Atualmente, eles moram em uma casa cedida por parentes, não pagam aluguel e não têm nenhuma urgência para se mudar, mas desejam se planejar para adquirir o próprio imóvel no futuro. Como não possuem nenhuma reserva financeira para dar de entrada, eles consultaram duas opções no mercado para a aquisição de um imóvel: Comparando as duas alternativas e considerando o percentual da renda comprometido, o custo total em longo prazo, a urgência da necessidade e a ausência de reserva financeira, qual é a opção mais adequada para o perfil dessa família e sua respectiva justificativa?",
+    "options": [
+      "A Opção 1 (Financiamento imediato), pois, como o prazo de pagamento é mais longo (360 meses contra 240 meses do consórcio), o impacto dos juros no orçamento familiar será menor ao longo do tempo.",
+      "A Opção 1 (Financiamento imediato), pois, mesmo comprometendo mais de 30% da renda, é a única alternativa matematicamente válida para adquirir bens sem possuir uma reserva financeira para a entrada.",
+      "A Opção 2 (Consórcio planejado), exclusivamente, porque o valor da parcela mensal (R$ 1.200,00) é menor, sendo esse o único critério financeiro que deve ser analisado em compras a prazo.",
+      "A Opção 1 (Financiamento imediato), pois garante o acesso rápido à moradia, justificando o alto custo total de R$ 720.000,00, já que a casa própria deve ser tratada como uma urgência independentemente da situação atual.",
+      "A Opção 2 (Consórcio planejado), pois, como a família não tem urgência para se mudar, a parcela compromete um percentual seguro da renda (20%) e o custo total é consideravelmente menor no longo prazo."
+    ],
+    "correct": 4,
+    "images": [
+      {
+        "src": "assets/questions/em1-19-1.webp",
+        "width": 572,
+        "height": 286,
+        "alt": "Financiamento: aquisição imediata, 360 parcelas de R$ 2.000, total aproximado R$ 720.000. Consórcio: aquisição após sorteio, 240 parcelas de R$ 1.200, total aproximado R$ 288.000."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Compare prazo, custo e parcela/renda, sem esquecer a urgência.",
+    "explanation": "No cenário da tabela, a opção 2 compromete 1.200/6.000 = 20% da renda e totaliza R$ 288.000, contra R$ 720.000 da opção 1. Como não há urgência, a resposta indicada é o consórcio planejado, sujeito às condições descritas.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-20",
+    "grade": "em1",
+    "number": 20,
+    "page": 40,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Leia o trecho da reportagem a seguir, que aborda os desafios financeiros enfrentados por muitas famílias brasileiras: \"Segundo reportagem do Bom Dia Brasil, pesquisas recentes indicam que o endividamento afeta não apenas a vida financeira das famílias, mas também sua saúde mental. Entre as consequências mais comuns estão o aumento do estresse, da ansiedade, da insônia e das dificuldades de planejamento financeiro. Especialistas alertam que problemas financeiros prolongados podem comprometer a qualidade de vida e as relações pessoais.\" GLOBO (adaptado). Disponível em: http://bit.ly/3QkuSOQ. Acesso em: 13 jun. 2026. Com base na reportagem e nos conceitos de Educação Financeira sobre equilíbrio no orçamento, quais são as principais consequências geradas pelo endividamento prolongado na vida de um indivíduo ou de uma família?",
+    "options": [
+      "O endividamento reduz a capacidade de atender às necessidades básicas e afeta negativamente a saúde mental, atrapalhando os planos futuros e diminuindo a qualidade de vida.",
+      "O endividamento é um fator que impulsiona o planejamento financeiro, pois a pressão para pagar as contas favorece a realização de novos investimentos e a busca por oportunidades de enriquecimento.",
+      "O endividamento afeta exclusivamente o histórico de crédito do consumidor, deixando-o com o nome negativado nos sistemas de proteção, mas sem interferir em seus projetos de vida ou em seu bem-estar emocional.",
+      "O acúmulo de dívidas garante o acesso contínuo a bens de consumo e a um alto padrão de vida, sendo o estresse financeiro um impacto irrelevante diante das conquistas materiais adquiridas a prazo.",
+      "A restrição de crédito é o único impacto real do endividamento, visto que o estresse e a ansiedade são características naturais da vida adulta e não têm relação direta com a organização do orçamento doméstico."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "O texto fala tanto de orçamento quanto de bem-estar.",
+    "explanation": "Segundo o texto do exercício, dívidas prolongadas limitam necessidades básicas e planos futuros, além de afetarem a saúde mental e a qualidade de vida.",
+    "difficulty": 3
+  },
+  {
+    "id": "em1-21",
+    "grade": "em1",
+    "number": 21,
+    "page": 42,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um educador financeiro analisou o perfil de três famílias para entender o nível de comprometimento de suas rendas mensais com dívidas (como parcelas de financiamentos, faturas de cartão de crédito e empréstimos). O quadro a seguir apresenta a renda mensal total e o valor total pago em dívidas por família: Considerando que o nível de endividamento é dado pela porcentagem da renda que está comprometida com o pagamento dessas dívidas, qual família apresenta a situação mais arriscada para o equilíbrio do orçamento e qual é a consequência direta desse cenário?",
+    "options": [
+      "A Família 1, pois compromete 60% de sua renda mensal com dívidas, o que demonstra um alto limite de crédito disponível no mercado e facilita a aprovação contínua de novos empréstimos para cobrir as despesas.",
+      "A Família 2, pois possui a maior dívida em valor absoluto (R$ 3.000,00), o que a coloca automaticamente no maior nível de risco financeiro e bloqueia definitivamente o seu acesso a novas linhas de crédito.",
+      "A Família 3, pois apresenta uma taxa de endividamento calculada em 500% em relação à renda, o que aponta o maior desequilíbrio do orçamento na tabela e resulta em um grave risco de restrição de crédito.",
+      "A Família 1, pois compromete 60% de sua renda mensal com dívidas, o que reduz drasticamente a margem para atender necessidades básicas, inviabiliza a formação de poupança e eleva o risco de inadimplência.",
+      "A Família 3, pois compromete 20% de sua renda mensal com dívidas, o que agrava a sua vulnerabilidade por ter a menor renda bruta e a torna a única a sofrer o corte de despesas essenciais."
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/em1-21-1.webp",
+        "width": 572,
+        "height": 177,
+        "alt": "Família 1: renda R$ 4.000 e dívidas R$ 2.400. Família 2: renda R$ 10.000 e dívidas R$ 3.000. Família 3: renda R$ 2.500 e dívidas R$ 500."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Compare dívida dividida pela renda de cada família.",
+    "explanation": "Família 1: 2.400/4.000 = 60%. Família 2: 3.000/10.000 = 30%. Família 3: 500/2.500 = 20%. A família 1 tem o maior comprometimento e a menor margem relativa para outras necessidades.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-01",
+    "grade": "em2",
+    "number": 1,
+    "page": 2,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma fábrica de componentes eletrônicos decidiu adotar uma meta de aumento mensal contínuo em sua produção. Os registros mostraram que, no primeiro mês de adoção da meta, foram produzidos 120 componentes. No segundo mês, a produção saltou para 145 componentes e, no terceiro mês, atingiu a marca de 170 componentes. Sabendo que a quantidade de componentes produzidos mês a mês forma uma progressão aritmética (PA), qual é a razão dessa sequência, que representa o aumento fixo mensal na produção da fábrica?",
+    "options": [
+      "20",
+      "25",
+      "50",
+      "120",
+      "265"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Subtraia um termo do seguinte.",
+    "explanation": "r = 145 − 120 = 25. Conferindo: 170 − 145 = 25. A produção aumenta 25 componentes por mês.",
+    "difficulty": 1
+  },
+  {
+    "id": "em2-02",
+    "grade": "em2",
+    "number": 2,
+    "page": 4,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um agricultor monitorou o volume de água em um reservatório usado para a irrigação de sua lavoura ao longo de uma semana. Ele notou que a quantidade de água diminuía de forma regular e registrou os seguintes volumes (em litros) a cada dia: {1200, 1150, 1100, 1050, ...}. Sabendo que os volumes diários registrados formam uma progressão aritmética (PA), como essa sequência é classificada e qual é o sinal e o valor de sua razão?",
+    "options": [
+      "Decrescente, pois os valores do volume de água diminuem a cada dia, indicando que a razão da progressão aritmética é negativa (r = – 50).",
+      "Crescente, pois a diferença absoluta entre os dias é de 50 litros, indicando que a razão da progressão aritmética é positiva (r = 50).",
+      "Constante, pois a quantidade de água que vaza por dia é sempre igual, indicando que a razão da progressão aritmética é nula (r = 0).",
+      "Decrescente, pois os valores do volume se alteram no reservatório, mas a razão da progressão aritmética mantém-se positiva (r = 50).",
+      "Alternante, pois os valores do volume variam diariamente no reservatório, indicando que a razão da progressão aritmética oscila (r = 50 ou – 50)."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Calcule o segundo valor menos o primeiro.",
+    "explanation": "r = 1.150 − 1.200 = −50. A razão negativa indica uma PA decrescente.",
+    "difficulty": 1
+  },
+  {
+    "id": "em2-03",
+    "grade": "em2",
+    "number": 3,
+    "page": 6,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Para a realização de uma palestra escolar, a comissão organizadora está arrumando as cadeiras do auditório em fileiras. A organização seguiu um padrão matemático rigoroso: na primeira fileira, foram colocadas 12 cadeiras; na segunda fileira, 16 cadeiras; na terceira fileira, 20 cadeiras, e assim sucessivamente. Sabendo que a quantidade de cadeiras colocadas em cada fileira segue esse padrão, quantas cadeiras compõem exatamente a 10ª fileira desse auditório?",
+    "options": [
+      "40",
+      "44",
+      "48",
+      "52",
+      "120"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Da primeira até a décima fileira são nove aumentos.",
+    "explanation": "a₁₀ = 12 + (10 − 1) × 4 = 12 + 36 = 48 cadeiras.",
+    "difficulty": 1
+  },
+  {
+    "id": "em2-04",
+    "grade": "em2",
+    "number": 4,
+    "page": 8,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Para se preparar para uma meia maratona, uma atleta iniciou um treinamento diário de corrida. No primeiro dia, ela correu 3 km. No segundo dia, correu 5 km; no terceiro dia, 7 km; e assim sucessivamente, aumentando a distância em exatos 2 km a cada dia de treino, o que configura uma progressão aritmética (PA). Sabendo que ela manteve esse mesmo padrão de acréscimo diário ao longo de 15 dias ininterruptos de treinamento, qual foi a distância total percorrida por ela ao final desse período?",
+    "options": [
+      "31 km",
+      "255 km",
+      "45 km",
+      "270 km",
+      "510 km"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Encontre o último termo e use S = n(a₁ + aₙ)/2.",
+    "explanation": "a₁₅ = 3 + 14 × 2 = 31 km. Total = 15 × (3 + 31)/2 = 255 km.",
+    "difficulty": 1
+  },
+  {
+    "id": "em2-05",
+    "grade": "em2",
+    "number": 5,
+    "page": 10,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Para comprar um novo computador, um estudante decidiu iniciar um planejamento financeiro e poupar dinheiro mensalmente ao longo de um ano (12 meses). No primeiro mês, ele guardou R$ 50,00. No segundo mês, guardou R$ 65,00; no terceiro, R$ 80,00, e continuou aumentando o valor economizado mensalmente seguindo esse mesmo padrão até o 12º mês. Qual foi o valor total acumulado por esse estudante ao final desse período de um ano?",
+    "options": [
+      "R$ 215,00",
+      "R$ 265,00",
+      "R$ 600,00",
+      "R$ 1.590,00",
+      "R$ 1.680,00"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "O depósito aumenta 15 reais por mês; some os 12 depósitos.",
+    "explanation": "a₁₂ = 50 + 11 × 15 = 215. S₁₂ = 12 × (50 + 215)/2 = R$ 1.590.",
+    "difficulty": 1
+  },
+  {
+    "id": "em2-06",
+    "grade": "em2",
+    "number": 6,
+    "page": 12,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um órgão de saúde está monitorando o número de novos casos de uma doença contagiosa em uma cidade. Os registros indicaram que, na primeira semana de monitoramento, foram confirmados 5 casos. Na segunda semana, o número de novos casos saltou para 15; na terceira semana, para 45, e; na quarta semana, chegou à marca de 135 novos casos. Sabendo que o número de novos casos semanais forma uma progressão geométrica (PG), qual é a razão dessa sequência, que representa o fator constante de multiplicação do contágio?",
+    "options": [
+      "3",
+      "5",
+      "10",
+      "30",
+      "75"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Em uma PG, a razão vem de uma divisão.",
+    "explanation": "q = 15/5 = 3. Também 45/15 = 3 e 135/45 = 3.",
+    "difficulty": 2
+  },
+  {
+    "id": "em2-07",
+    "grade": "em2",
+    "number": 7,
+    "page": 14,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma empresa adquiriu um maquinário industrial por R$ 80.000,00. Devido ao uso e à defasagem tecnológica, o valor de mercado desse equipamento sofre uma depreciação anual, de forma que o seu valor a cada novo ano corresponde à metade do valor do ano anterior. Dessa forma, os valores registrados ao longo dos anos formam a seguinte sequência: {80.000, 40.000, 20.000, 10.000, ...}. Considerando a análise do comportamento dos termos e o cálculo da razão, como essa progressão geométrica é classificada?",
+    "options": [
+      "Alternante, pois o valor financeiro do equipamento oscila matematicamente.",
+      "Crescente, pois a razão é positiva, o que gera termos da progressão numericamente maiores a cada novo ano.",
+      "Constante, pois o padrão matemático de depreciação pela metade não se altera ao longo dos anos.",
+      "Decrescente, pois a razão da progressão é negativa, o que gera termos da progressão numericamente menores a cada novo ano.",
+      "Decrescente, pois a razão é positiva e os termos da progressão tornam-se numericamente menores a cada novo ano."
+    ],
+    "correct": 4,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Divida um valor pelo anterior e observe os termos.",
+    "explanation": "q = 40.000/80.000 = 1/2, positivo. Como os termos são positivos e 0 < q < 1, os valores diminuem: PG decrescente.",
+    "difficulty": 2
+  },
+  {
+    "id": "em2-08",
+    "grade": "em2",
+    "number": 8,
+    "page": 16,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um grupo de alunos de ciência da computação desenvolveu um aplicativo gratuito de organização de estudos e iniciou uma campanha de divulgação na universidade. Eles registraram o número de novos downloads a cada etapa da campanha e perceberam que o alcance formava um padrão matemático de multiplicação constante. Na 1ª etapa de divulgação, 2 estudantes baixaram o aplicativo. Na 2ª etapa, 8 novos estudantes baixaram o aplicativo. Na 3ª etapa, 32 novos estudantes fizeram o download, e o crescimento continuou seguindo exatamente esse mesmo padrão. Considerando o padrão de crescimento dessa progressão, qual será o número de novos estudantes que baixarão o aplicativo na 5ª etapa da campanha?",
+    "options": [
+      "128",
+      "160",
+      "512",
+      "1.024",
+      "2.048"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Descubra o fator de crescimento e avance até a 5ª etapa.",
+    "explanation": "q = 8/2 = 4. a₅ = 2 × 4⁴ = 2 × 256 = 512 novos downloads.",
+    "difficulty": 2
+  },
+  {
+    "id": "em2-09",
+    "grade": "em2",
+    "number": 9,
+    "page": 18,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma startup de tecnologia com foco ambiental lançou uma campanha de arrecadação virtual (crowdfunding) para o plantio de árvores em áreas degradadas. No primeiro dia, a campanha atraiu 10 doadores. Graças a um sistema de engajamento nas redes sociais, o número de novos doadores a cada dia passou a ser o dobro do número de novos doadores do dia anterior. Seguindo essa tendência, no segundo dia houve 20 novos doadores, no terceiro dia 40 novos doadores, e assim sucessivamente. Considerando que esse padrão multiplicativo se manteve constante, qual foi o total acumulado de doadores que a campanha conseguiu reunir do primeiro até o final do 10º dia?",
+    "options": [
+      "5115",
+      "5120",
+      "20460",
+      "10240",
+      "10230"
+    ],
+    "correct": 4,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "É pedido o total acumulado, não apenas o 10º dia.",
+    "explanation": "S₁₀ = 10 × (2¹⁰ − 1)/(2 − 1) = 10 × 1.023 = 10.230 doadores.",
+    "difficulty": 2
+  },
+  {
+    "id": "em2-10",
+    "grade": "em2",
+    "number": 10,
+    "page": 20,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um robô agrícola de pulverização está programado para percorrer uma linha reta em um grande campo de plantio. Devido a uma restrição programada no uso de sua bateria, a cada novo deslocamento, ele percorre uma distância equivalente à terça parte da distância percorrida no movimento imediatamente anterior. Em seu primeiro movimento contínuo, o robô percorre exatamente 120 metros. No segundo movimento, ele percorre 40 metros. No terceiro, percorre aproximadamente 13,3 metros, e assim por diante. Qual será a distância total máxima, em metros, percorrida por esse robô se o padrão de movimento se repetir infinitamente?",
+    "options": [
+      "80",
+      "90",
+      "160",
+      "180",
+      "360"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Para uma PG com razão entre −1 e 1, S = a₁/(1 − q).",
+    "explanation": "q = 1/3. A soma infinita é 120/(1 − 1/3) = 120/(2/3) = 180 m.",
+    "difficulty": 2
+  },
+  {
+    "id": "em2-11",
+    "grade": "em2",
+    "number": 11,
+    "page": 22,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um grupo de estudantes organizou uma corrente de solidariedade por meio de um aplicativo de mensagens para arrecadar agasalhos para o inverno. A estratégia era simples: cada participante deveria convidar um número fixo de novas pessoas para a campanha a cada nova etapa. O registro de novos participantes revelou um crescimento expressivo. Na 1ª etapa da campanha, 4 pessoas ingressaram na corrente. Na 2ª etapa, a mensagem foi repassada e 12 novas pessoas ingressaram. Na 3ª etapa, o engajamento continuou e 36 novas pessoas ingressaram, mantendo sempre a mesma taxa de multiplicação para as etapas seguintes. Mantendo-se esse padrão multiplicativo constante, qual será o número de novos participantes que ingressarão na corrente de solidariedade exatamente na 5ª etapa da campanha?",
+    "options": [
+      "108",
+      "324",
+      "144",
+      "484",
+      "972"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Progressões",
+    "hint": "Encontre a razão e aplique aₙ = a₁ × qⁿ⁻¹.",
+    "explanation": "q = 12/4 = 3. a₅ = 4 × 3⁴ = 4 × 81 = 324 participantes.",
+    "difficulty": 2
+  },
+  {
+    "id": "em2-12",
+    "grade": "em2",
+    "number": 12,
+    "page": 24,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um estudante organizou uma planilha financeira para simular a evolução de uma dívida de R$ 300,00 sob o regime de juros simples. Ele preencheu a tabela abaixo com o valor total da dívida (montante) ao final de cada mês: Ao observar os valores acumulados na planilha, constata-se que a diferença entre os montantes de meses consecutivos é sempre constante, que, neste caso, é um aumento fixo de R$ 15,00 ao mês. Com base nas propriedades matemáticas do regime de juros simples, o comportamento apresentado pelo montante dessa dívida ao longo do tempo é classificado como um crescimento",
+    "options": [
+      "linear, caracterizado por formar uma progressão aritmética em que a taxa de juros incide sempre sobre o valor inicial.",
+      "exponencial, caracterizado por formar uma progressão aritmética em que o acréscimo de juros incide sempre sobre o valor inicial.",
+      "linear, caracterizado por formar uma progressão geométrica em que o acréscimo de juros incide sobre o valor atualizado do mês anterior.",
+      "exponencial, caracterizado por formar uma progressão geométrica em que o acréscimo de juros incide sobre o valor atualizado do mês anterior.",
+      "aleatório, caracterizado por uma taxa de variação que se altera mensalmente de forma imprevisível conforme o aumento do capital."
+    ],
+    "correct": 0,
+    "images": [
+      {
+        "src": "assets/questions/em2-12-1.webp",
+        "width": 572,
+        "height": 279,
+        "alt": "Montante por mês: mês 0, R$ 300; mês 1, R$ 315; mês 2, R$ 330; mês 3, R$ 345; mês 4, R$ 360."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Juros",
+    "hint": "Observe sobre qual valor os juros simples incidem.",
+    "explanation": "O acréscimo é sempre R$ 15. Os juros incidem sobre o capital inicial, gerando crescimento linear e uma PA de razão 15.",
+    "difficulty": 2
+  },
+  {
+    "id": "em2-13",
+    "grade": "em2",
+    "number": 13,
+    "page": 26,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um jovem empreendedor decidiu investir R$ 1.000,00 na criação de sua loja virtual. Ele encontrou uma aplicação financeira que rende sob o regime de juros compostos. Para entender como seu dinheiro renderia, simulou o saldo final (montante) dos primeiros meses e obteve a seguinte sequência de valores: (R$ 1.000,00; R$ 1.020,00; R$ 1.040,40; R$ 1.061,21; ...) Ao analisar a evolução desse montante em função do tempo, o jovem percebeu que o crescimento da aplicação não ocorre por meio do acréscimo de um valor fixo em reais a cada mês, pois a diferença entre os saldos consecutivos aumenta progressivamente. Com base nas características matemáticas desse regime de juros, o comportamento que justifica o crescimento desse montante é classificado como",
+    "options": [
+      "exponencial, pois a cada mês o valor do rendimento em reais diminui em relação ao mês anterior, fazendo com que o capital total sofra uma estabilização de crescimento.",
+      "linear, pois a taxa percentual de juros aplicada pela instituição financeira permanece fixa ao longo de todos os meses, somando-se sempre a mesma quantia inicial.",
+      "exponencial, pois o montante cresce adicionando-se um valor fixo ao capital inicial, formando uma progressão aritmética crescente ao longo do tempo.",
+      "linear, pois o dinheiro cresce de forma variável mês a mês, não permitindo o cálculo exato do montante final em longo prazo por meio de uma equação.",
+      "exponencial, pois o rendimento de cada mês é calculado incidindo a taxa de juros sobre o saldo total acumulado no mês imediatamente anterior, caracterizando uma multiplicação sucessiva."
+    ],
+    "correct": 4,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Juros",
+    "hint": "Nos juros compostos, o saldo anterior também rende.",
+    "explanation": "Cada saldo é multiplicado por 1,02: 1.000 → 1.020 → 1.040,40. A taxa incide sobre o montante acumulado, gerando crescimento exponencial.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-14",
+    "grade": "em2",
+    "number": 14,
+    "page": 28,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um jovem estudante decidiu iniciar um pequeno negócio de venda de camisetas personalizadas. Para comprar os materiais iniciais, ele solicitou um empréstimo de R$ 400,00 em um aplicativo financeiro que cobra uma taxa de juros compostos de 10% ao mês. Ele planejou vender as camisetas rapidamente e quitar a dívida em parcela única ao final do 2º mês. Considerando a incidência de juros sobre juros característica desse regime, qual será o valor total (montante) pago pelo estudante para quitar o empréstimo ao final desse período?",
+    "options": [
+      "R$ 84,00.",
+      "R$ 440,00.",
+      "R$ 480,00.",
+      "R$ 484,00.",
+      "R$ 800,00."
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Juros",
+    "hint": "Aplique o fator 1,10 duas vezes.",
+    "explanation": "M = 400 × (1 + 0,10)² = 400 × 1,21 = R$ 484. Os juros somam R$ 84, mas foi pedido o montante.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-15",
+    "grade": "em2",
+    "number": 15,
+    "page": 30,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma jovem empreendedora dispõe de R$ 4.000,00 e deseja investir esse valor pelo prazo exato de 2 meses. Ao consultar um analista financeiro, ele apresenta duas opções de aplicação com comportamentos de crescimento distintos: - Opção A: O rendimento mensal é fixado em um valor constante de R$ 200,00, caracterizando um crescimento linear ao longo do tempo. - Opção B: O rendimento é calculado aplicando-se uma taxa de 5% ao mês estritamente sobre o saldo acumulado do mês anterior, caracterizando um crescimento exponencial. Com base na modelagem matemática de cada regime financeiro, qual opção resultará no maior montante ao final dos 2 meses e qual será a exata diferença financeira entre elas?",
+    "options": [
+      "As duas opções resultarão no mesmo montante final, não havendo diferença financeira entre elas.",
+      "A Opção A resultará no maior montante, superando a Opção B em R$ 10,00.",
+      "A Opção B resultará no maior montante, superando a Opção A em R$ 10,00.",
+      "A Opção B resultará no maior montante, superando a Opção A em R$ 210,00.",
+      "A Opção A resultará no maior montante, superando a Opção B em R$ 200,00."
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Juros",
+    "hint": "Calcule separadamente os montantes de A e de B.",
+    "explanation": "A: 4.000 + 2 × 200 = R$ 4.400. B: 4.000 × 1,05² = R$ 4.410. B supera A em R$ 10.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-16",
+    "grade": "em2",
+    "number": 16,
+    "page": 32,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Maria tem R$ 10.000,00 para investir e pretende usar esse dinheiro em uma viagem daqui a seis meses. Seu perfil de investidora é conservador, ou seja, ela prefere aplicações de baixo risco. Além disso, a inflação prevista para esse período é de 0,8% ao mês. O gerente de seu banco apresentou as seguintes opções de investimento: Considerando o perfil de Maria, seu objetivo financeiro e a inflação prevista, qual investimento ela deve escolher e por quê?",
+    "options": [
+      "Ações, pois oferecem a maior rentabilidade (até 2,0%), garantindo um ganho superior à inflação, o que justifica ignorar o alto risco de perdas para resgates no curto prazo.",
+      "Poupança, pois garante o baixo risco e o resgate imediato exigidos, e qualquer taxa de juros positiva, como a de 0,6% ao mês, já protege de forma garantida o capital contra a inflação de 0,8%.",
+      "CDB, pois oferece a maior rentabilidade da renda fixa (1,2%) para vencer a inflação, o que deve ser a prioridade absoluta, mesmo que o dinheiro precise ficar retido por 2 anos para um objetivo de seis meses.",
+      "Tesouro Selic, pois alia o resgate imediato e o baixo risco exigidos pelo perfil conservador a uma rentabilidade de 0,9% ao mês, que supera a inflação e assegura ganho real no curto prazo.",
+      "Ações ou CDB, pois, para superar uma inflação de 0,8% ao mês e ter lucro, o investidor com objetivo de curto prazo é sempre obrigado a abandonar as opções seguras e assumir altos riscos."
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/em2-16-1.webp",
+        "width": 612,
+        "height": 326,
+        "alt": "Taxas hipotéticas mensais: poupança, renda fixa, baixo risco, 0,6%, resgate imediato; Tesouro Selic, renda fixa, baixo risco, 0,9%, imediato; CDB, renda fixa, médio risco, 1,2%, retido por 2 anos; ações, renda variável, alto risco, até 2%, imediato sujeito a perdas."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Compare o prazo de resgate, o risco e a inflação da tabela.",
+    "explanation": "Pelas condições hipotéticas apresentadas, o Tesouro Selic une baixo risco, resgate imediato e 0,9% ao mês, acima da inflação de 0,8%. As taxas são dados do exercício, não cotações atuais.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-17",
+    "grade": "em2",
+    "number": 17,
+    "page": 34,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Lucas é um estudante do Ensino Médio que acabou de receber R$ 2.000,00 pelo seu primeiro estágio. Ao planejar sua vida financeira, ele definiu dois objetivos distintos: 1) Reserva de emergência: Destinar R$ 1.000,00 para imprevistos do dia a dia, precisando de total segurança e facilidade rápida para retirar o dinheiro. 2) Projeto de médio prazo: Investir os outros R$ 1.000,00 para comprar um novo computador daqui a exatamente 2 anos. Pesquisando opções no mercado, ele organizou a seguinte tabela com as características de quatro investimentos: Considerando os conceitos de risco, prazo, liquidez e a necessidade de diversificação para diferentes objetivos pessoais, qual é a estratégia de organização financeira mais adequada para Lucas?",
+    "options": [
+      "Aplicar todo o valor em ações, pois a liquidez imediata e a chance de alto retorno atendem simultaneamente à reserva de emergência e ao projeto do computador.",
+      "Aplicar todo o valor na poupança, pois o risco muito baixo é a forma mais segura de proteger todo o capital para emergências e para o projeto de médio prazo.",
+      "Aplicar R$ 1.000,00 no Tesouro Selic para a reserva de emergência, unindo segurança e liquidez, e R$ 1.000,00 no CDB para o computador, focando maior rentabilidade.",
+      "Aplicar todo o valor no CDB, pois a rentabilidade de 12% ao ano garantirá o melhor crescimento e segurança tanto para a reserva de emergência quanto para o computador.",
+      "Aplicar R$ 1.000,00 em ações para a reserva de emergência de curto prazo e R$ 1.000,00 na poupança para garantir, a longo prazo, o dinheiro do computador."
+    ],
+    "correct": 2,
+    "images": [
+      {
+        "src": "assets/questions/em2-17-1.webp",
+        "width": 599,
+        "height": 319,
+        "alt": "Tabela hipotética: poupança, renda fixa, risco muito baixo, 6% ao ano, liquidez imediata; Tesouro Selic, renda fixa, baixo risco, 10% ao ano, imediata; CDB, renda fixa, médio risco, 12% ao ano, vencimento em 2 anos; ações, renda variável, alto risco, retorno variável, imediata."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Os dois objetivos pedem prazos de resgate diferentes.",
+    "explanation": "Na tabela do exercício, o Tesouro Selic combina baixo risco e liquidez para a emergência. O CDB vence em 2 anos e oferece a maior taxa fixa indicada, compatível com o prazo do computador.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-18",
+    "grade": "em2",
+    "number": 18,
+    "page": 36,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um banco enviou a seguinte mensagem promocional por aplicativo para os clientes do seu novo cartão de crédito: \"MÊS VIP: Use seu cartão e ganhe vantagens exclusivas! Ganhe 5% de cashback (dinheiro de volta) em todas as compras acima de R$ 800,00 e acumule o dobro de milhas no nosso programa de fidelidade! Parcele tudo em até 10 vezes. Atenção: o saldo de cashback só é liberado para faturas pagas integralmente, e as milhas expiram em 90 dias.\" Ao analisar criticamente essa oferta sob a perspectiva da Educação Financeira, qual afirmação descreve corretamente a principal estratégia de marketing utilizada e o cuidado necessário para o uso consciente do crédito?",
+    "options": [
+      "A oferta busca incentivar o aumento do volume de gastos por meio do gatilho do valor mínimo estipulado e do prazo curto das milhas. O consumidor deve ter o cuidado para não realizar compras desnecessárias apenas para obter os benefícios.",
+      "A estratégia principal é fornecer uma quantia de \"dinheiro extra\" garantido ao cliente por meio do cashback, indicando que o consumidor deve centralizar todos os seus gastos no cartão para lucrar com o reembolso automático.",
+      "A propaganda foca oferecer milhas em dobro como uma vantagem absoluta ao cliente, o que significa que o consumidor sempre terá lucro nas viagens, independentemente de os pontos acumulados expirarem rapidamente.",
+      "A oferta incentiva o parcelamento longo para facilitar o orçamento do cliente, demonstrando que dividir a fatura em 10 vezes neutraliza completamente o risco de endividamento devido ao retorno financeiro dos benefícios.",
+      "A estratégia utilizada assegura um desconto direto de 5% em qualquer compra realizada, exigindo apenas que o consumidor use o cartão de crédito, sem necessidade de se preocupar com os limites de valor ou com o pagamento da fatura."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Observe o gasto mínimo, a validade das milhas e a condição do cashback.",
+    "explanation": "O anúncio incentiva compras para atingir um valor mínimo e usar pontos antes de vencerem. Os benefícios não justificam gastos desnecessários e dependem das condições da oferta.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-19",
+    "grade": "em2",
+    "number": 19,
+    "page": 38,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma grande rede varejista divulgou, em seu aplicativo e nas redes sociais, o seguinte anúncio publicitário: Transcrição das letras miúdas: Oferta válida exclusivamente para assinantes do Clube mediante mensalidade de R$ 39,90. Parcelamento estendido sujeito à aprovação de crédito e incidência de tarifas financeiras. O desconto na segunda unidade incide sobre o item de menor valor. Considerando as condições apresentadas na oferta e a necessidade de um consumo consciente, qual afirmação descreve de forma crítica a principal estratégia de marketing empregada pelo anúncio?",
+    "options": [
+      "O anúncio foca facilidades atrativas para estimular o consumo por impulso e o uso do crédito. O cliente deve ponderar os custos ocultos, como a mensalidade do clube, e o real impacto de uma dívida prolongada em seu orçamento.",
+      "A carência de 90 dias para pagar e a divisão em 24 vezes \"sem juros\" comprovam a ausência de custos extras na transação, tornando a adesão ao clube sempre vantajosa independentemente da renda do cliente.",
+      "O desconto na segunda unidade caracteriza-se como um ganho financeiro direto e incondicional, incentivando o consumidor a comprar múltiplos acessórios que não planejava apenas para não perder o abatimento garantido.",
+      "A oferta de cupons em dobro demonstra que participar de sorteios anula o risco das parcelas mensais, pois o prêmio futuro cobrirá os gastos feitos pelo cliente com a mensalidade exigida pelo clube de ofertas.",
+      "A postergação da primeira parcela protege integralmente o consumidor contra o risco de inadimplência, pois garante que ele possa consumir bens de alto valor sem comprometer seus ganhos imediatos no mês da compra."
+    ],
+    "correct": 0,
+    "images": [
+      {
+        "src": "assets/questions/em2-19-1.webp",
+        "width": 572,
+        "height": 382,
+        "alt": "Anúncio: smartphone em até 24 vezes sem juros no cartão do clube; primeira parcela em 90 dias; 50% de desconto no acessório de menor valor; cupons em dobro. Assinatura mensal de R$ 39,90; parcelamento sujeito a aprovação e tarifas."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Leia a mensalidade e as condições escritas em letras pequenas.",
+    "explanation": "O anúncio destaca facilidades para estimular compras, mas exige assinatura de R$ 39,90 e prevê condições de crédito e tarifas. É preciso comparar o custo completo e a necessidade da compra.",
+    "difficulty": 3
+  },
+  {
+    "id": "em2-20",
+    "grade": "em2",
+    "number": 20,
+    "page": 40,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Carlos e Juliana planejam comprar o primeiro imóvel, avaliado em R$ 250.000,00. O casal possui R$ 60.000,00 de poupança, mas deseja manter uma reserva de emergência de, no mínimo, R$ 10.000,00. Além disso, a parcela mensal do financiamento não pode ultrapassar R$ 2.500,00. Ao simular diferentes condições de financiamento, considerando um sistema de amortização em que a parcela inicial é a mais alta, eles obtiveram os cenários apresentados na tabela a seguir. Considerando juros, prazo, valor de entrada, parcela mensal e a necessidade de manter endividamento controlado, qual cenário representa a melhor decisão de contratação?",
+    "options": [
+      "O Cenário I, pois apresenta a menor parcela inicial (R$ 2.100,00), o que é o único fator determinante para o controle do orçamento, compensando o fato de o prazo de 360 meses gerar o maior volume de juros totais.",
+      "O Cenário IV, pois apresenta o menor pagamento de juros totais (R$ 90.000,00) e o menor prazo, provando que o ideal é sempre quitar a dívida o mais rápido possível, independentemente do valor mensal da parcela.",
+      "O Cenário III, pois, ao dar todo o dinheiro disponível como entrada (R$ 60.000,00), o casal garante o menor valor financiado e reduz os juros, o que justifica abrir mão da reserva de emergência em prol da compra do imóvel.",
+      "O Cenário I, pois reter a maior parte do dinheiro na poupança (dando apenas R$ 20.000,00 de entrada) é a estratégia mais segura, visto que taxas de juros mensais baixas não geram impactos expressivos no custo final ao longo de 30 anos.",
+      "O Cenário II, pois utiliza a maior entrada possível sem comprometer completamente a reserva de emergência, respeita o limite da capacidade de pagamento mensal e reduz significativamente os juros totais em comparação ao prazo mais longo."
+    ],
+    "correct": 4,
+    "images": [
+      {
+        "src": "assets/questions/em2-20-1.webp",
+        "width": 701,
+        "height": 217,
+        "alt": "Cenários: I, entrada 20.000, 360 meses, financiado 230.000, parcela inicial 2.100, juros 310.000. II, entrada 50.000, 240 meses, financiado 200.000, parcela 2.450, juros 180.000. III, entrada 60.000, 180 meses, financiado 190.000, parcela 2.300, juros 120.000. IV, entrada 50.000, 120 meses, financiado 200.000, parcela 3.800, juros 90.000. Valores em reais."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Finanças",
+    "hint": "Compare a entrada disponível, o limite de parcela e os juros totais.",
+    "explanation": "A entrada pode ser de até 60.000 − 10.000 = R$ 50.000. A parcela deve ser de até R$ 2.500. O cenário II usa R$ 50.000 de entrada, parcela de R$ 2.450 e juros totais de R$ 180.000, menores que os R$ 310.000 do cenário I. III consome a reserva; IV ultrapassa o limite mensal.",
+    "difficulty": 3
+  },
+  {
+    "id": "em3-01",
+    "grade": "em3",
+    "number": 1,
+    "page": 2,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um arquiteto está projetando uma rampa de acessibilidade reta que ligará o solo a um piso elevado. A rampa possui 10 metros de comprimento e forma um ângulo de 30° com o chão horizontal. Qual igualdade representa corretamente a razão trigonométrica usada para calcular a altura (h) do piso elevado?",
+    "options": [
+      "cos 30° = 10/altura",
+      "cos 30° = altura/10",
+      "tg 30° = altura/10",
+      "sen 30° = 10/altura",
+      "sen 30° = altura/10"
+    ],
+    "correct": 4,
+    "images": [
+      {
+        "src": "assets/questions/em3-01-1.webp",
+        "width": 530,
+        "height": 226,
+        "alt": "Rampa inclinada de 10 metros, com ângulo de 30° com o chão e altura h."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Identifique a hipotenusa e o cateto oposto ao ângulo.",
+    "explanation": "A rampa de 10 m é a hipotenusa. A altura é o cateto oposto a 30°. Logo, sen 30° = altura/10.",
+    "difficulty": 1
+  },
+  {
+    "id": "em3-02",
+    "grade": "em3",
+    "number": 2,
+    "page": 4,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um agricultor pretende cercar uma área para a implantação de um pomar. Ele já dispõe de duas cercas retas que se encontram em um mesmo ponto, formando um ângulo de 90°, com comprimentos de 8 metros e 6 metros. Para fechar a região e formar um terreno triangular, será instalada uma terceira cerca ligando as extremidades das duas cercas já existentes. Qual deverá ser o comprimento dessa terceira cerca?",
+    "options": [
+      "2 m",
+      "5 m",
+      "10 m",
+      "14 m",
+      "100 m"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "A terceira cerca é a hipotenusa do triângulo retângulo.",
+    "explanation": "c² = 8² + 6² = 64 + 36 = 100. Assim, c = 10 m.",
+    "difficulty": 1
+  },
+  {
+    "id": "em3-03",
+    "grade": "em3",
+    "number": 3,
+    "page": 6,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Durante uma aula de Matemática, um professor desafiou seus estudantes a determinar a altura de um poste de iluminação. Para resolver o desafio, um estudante mediu com uma trena o comprimento da sombra projetada pelo poste, obtendo 5,0 m. No mesmo instante, verificou que sua própria sombra media 2,0 m e que sua altura era de 1,6 m. Sabendo que os raios solares incidem paralelamente, qual é a altura desse poste?",
+    "options": [
+      "3,4 m",
+      "4,0 m",
+      "5,0 m",
+      "6,6 m",
+      "8,6 m"
+    ],
+    "correct": 1,
+    "images": [
+      {
+        "src": "assets/questions/em3-03-1.webp",
+        "width": 510,
+        "height": 286,
+        "alt": "Poste e estudante formam triângulos semelhantes com suas sombras. Sombra do poste 5 m; estudante de 1,6 m e sombra de 2 m."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "As alturas e as sombras formam triângulos semelhantes.",
+    "explanation": "h/5 = 1,6/2. Portanto, h = 5 × 0,8 = 4 m.",
+    "difficulty": 1
+  },
+  {
+    "id": "em3-04",
+    "grade": "em3",
+    "number": 4,
+    "page": 8,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Para realizar a pintura da fachada de um prédio, um pintor apoia uma escada de 8 metros de comprimento contra a parede vertical. Para garantir a estabilidade e a segurança durante o trabalho, a escada é posicionada de modo a formar um ângulo de 60° com o solo, que é plano e horizontal. Qual é a distância entre a base da escada e a parede do prédio?",
+    "options": [
+      "4 m",
+      "4 √2 m",
+      "4 √3 m",
+      "8 √3 m",
+      "16 m"
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "A distância até a parede é o cateto adjacente a 60°.",
+    "explanation": "cos 60° = d/8. Como cos 60° = 1/2, d = 8 × 1/2 = 4 m.",
+    "difficulty": 1
+  },
+  {
+    "id": "em3-05",
+    "grade": "em3",
+    "number": 5,
+    "page": 10,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma equipe de topografia precisa determinar a distância em linha reta de um ponto A até um ponto inacessível C, localizado do outro lado de um rio. Para isso, os topógrafos marcam um ponto B na mesma margem em que se encontra o ponto A, estabelecendo uma distância de 100 metros entre A e B. Utilizando um teodolito, a equipe mede os ângulos de observação para o ponto C, constatando que o ângulo formado em A é de 45° e o ângulo formado em B é de 60°. Dados: Considere as aproximações: sen45°≅0,70, sen60°≅0,87 e sen75°≅0,97. Qual é a medida aproximada da distância entre os pontos A e C?",
+    "options": [
+      "72 m",
+      "87 m",
+      "90 m",
+      "100 m",
+      "111 m"
+    ],
+    "correct": 2,
+    "images": [
+      {
+        "src": "assets/questions/em3-05-1.webp",
+        "width": 590,
+        "height": 520,
+        "alt": "Triângulo ABC: AB = 100 m, ângulo A = 45°, ângulo B = 60°; procura-se AC."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Calcule o terceiro ângulo e use a lei dos senos.",
+    "explanation": "Ângulo C = 180° − 45° − 60° = 75°. AC/sen 60° = 100/sen 75°. AC ≈ 100 × 0,87/0,97 ≈ 89,7 m, aproximadamente 90 m.",
+    "difficulty": 1
+  },
+  {
+    "id": "em3-06",
+    "grade": "em3",
+    "number": 6,
+    "page": 12,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Dois navios partem de um mesmo porto marítimo simultaneamente, seguindo trajetórias retilíneas que formam entre si um ângulo de 60°. Após uma hora de navegação, o primeiro navio percorreu 10 km e o segundo navio percorreu 16 km. Considerando o porto e as posições atuais dos dois navios como os vértices de um triângulo, qual é a distância, em linha reta, entre os dois navios nesse momento?",
+    "options": [
+      "6 km",
+      "14 km",
+      "26 km",
+      "356 km",
+      "196 km"
+    ],
+    "correct": 1,
+    "images": [
+      {
+        "src": "assets/questions/em3-06-1.webp",
+        "width": 489,
+        "height": 306,
+        "alt": "Dois trajetos de 10 km e 16 km saem do porto formando ângulo de 60°."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Você conhece dois lados e o ângulo entre eles: lei dos cossenos.",
+    "explanation": "d² = 10² + 16² − 2 × 10 × 16 × cos 60° = 100 + 256 − 160 = 196. Logo, d = 14 km.",
+    "difficulty": 2
+  },
+  {
+    "id": "em3-07",
+    "grade": "em3",
+    "number": 7,
+    "page": 14,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um caminhão do Corpo de Bombeiros, equipado com uma escada mecânica de 17 metros de comprimento, foi acionado para realizar o resgate de uma vítima em um edifício. Para garantir a segurança da operação, o caminhão foi estacionado em uma rua plana e horizontal, mantendo uma distância de 8 metros da base do prédio. A escada foi totalmente estendida, apoiando-se na parede vertical do edifício, alcançando exatamente a janela em que se encontrava a vítima. Sabe-se que a base da escada está fixada sobre o caminhão a uma altura de 3 metros em relação ao solo. Qual é a altura máxima, em relação ao solo, que sua extremidade alcança nessa posição?",
+    "options": [
+      "15 metros",
+      "18 metros",
+      "19 metros",
+      "17 metros",
+      "20 metros"
+    ],
+    "correct": 1,
+    "images": [
+      {
+        "src": "assets/questions/em3-07-1.webp",
+        "width": 382,
+        "height": 423,
+        "alt": "Escada de 17 m apoiada a 8 m horizontalmente do prédio; base da escada 3 m acima do solo."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Geometria",
+    "hint": "Ache a altura do triângulo e acrescente a base do caminhão.",
+    "explanation": "h² = 17² − 8² = 289 − 64 = 225, então h = 15 m. Somando a base de 3 m: altura total = 18 m.",
+    "difficulty": 2
+  },
+  {
+    "id": "em3-08",
+    "grade": "em3",
+    "number": 8,
+    "page": 16,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma antena metálica vertical será instalada com cabos de sustentação fixados próximos ao seu topo. Cada cabo será ancorado ao solo em uma base localizada a 3,0 m do centro da antena, formando um ângulo de 60° com o solo conforme ilustrado na figura. Em que altura H da antena os cabos de sustentação devem ser fixados?",
+    "options": [
+      "1,5 m",
+      "√3 m",
+      "(3√3)/2 m",
+      "3√3 m",
+      "6 m"
+    ],
+    "correct": 3,
+    "images": [
+      {
+        "src": "assets/questions/em3-08-1.webp",
+        "width": 444,
+        "height": 398,
+        "alt": "Antena vertical com cabo preso ao solo a 3 m da base, formando 60° com o chão."
+      }
+    ],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "A tangente relaciona a altura com a distância horizontal.",
+    "explanation": "tg 60° = H/3. Como tg 60° = √3, H = 3√3 m.",
+    "difficulty": 2
+  },
+  {
+    "id": "em3-09",
+    "grade": "em3",
+    "number": 9,
+    "page": 18,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um engenheiro civil precisa calcular o comprimento exato de uma ponte reta que será construída sobre um lago ligando o ponto A ao ponto B. Como não é possível medir essa distância diretamente sobre a água, ele define um ponto de referência C em terra firme, formando um triângulo com as margens. Utilizando um teodolito e uma trena, ele constata que o segmento CA mede 30 metros e o segmento CB mede 50 metros. Além disso, o ângulo formado pelas linhas de visão de C até A e de C até B mede 120°. Dados: Considere sen120∘≅0,87 e cos120∘=−0,5. Analisando as informações topográficas e sabendo que os pontos formam um triângulo qualquer, qual deve ser o comprimento da ponte a ser construída entre os pontos A e B?",
+    "options": [
+      "10√19 m",
+      "40 m",
+      "10√34 m",
+      "70 m",
+      "80 m"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Aplique a lei dos cossenos com o ângulo de 120°.",
+    "explanation": "AB² = 30² + 50² − 2 × 30 × 50 × (−0,5) = 900 + 2.500 + 1.500 = 4.900. AB = 70 m.",
+    "difficulty": 2
+  },
+  {
+    "id": "em3-10",
+    "grade": "em3",
+    "number": 10,
+    "page": 20,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Durante uma aula de Matemática, a professora propôs uma atividade em um software de construção de gráficos. Os estudantes deveriam construir uma circunferência trigonométrica no plano cartesiano e representar um ponto P associado a um ângulo α. Para que a construção realizada no software seja matematicamente classificada como uma circunferência trigonométrica padrão, quais características devem ser adotadas?",
+    "options": [
+      "O centro deve estar na origem (0, 0), o raio deve medir 1 unidade, o ponto inicial deve ser (1, 0) e o sentido positivo deve ser o anti-horário.",
+      "O centro deve estar na origem (0, 0), o raio deve ser de tamanho livre e o sentido positivo deve ser o horário, imitando os relógios.",
+      "O centro deve estar no ponto (1, 1), o raio deve medir 1 unidade e as coordenadas do ponto P devem ser dadas por (senα, cosα).",
+      "O ponto inicial deve estar na origem (0, 0), o raio deve medir 360 unidades e o sentido positivo deve ser o anti-horário.",
+      "O centro deve estar no ponto (1, 0), o raio deve medir 1 unidade e a coordenada horizontal do ponto P deve ser dada pela tangente."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Lembre o raio, o ponto inicial e a ordem das coordenadas.",
+    "explanation": "A circunferência trigonométrica tem raio 1, origem dos arcos em (1, 0) e sentido positivo anti-horário. O ponto P tem coordenadas (cos α, sen α).",
+    "difficulty": 2
+  },
+  {
+    "id": "em3-11",
+    "grade": "em3",
+    "number": 11,
+    "page": 22,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "O engenheiro responsável pela manutenção de um parque de diversões está analisando o movimento de uma roda-gigante. Ele observa que a altura de uma das cabines de passageiros em relação ao solo sobe até atingir um ponto máximo, desce até um ponto mínimo e volta a subir, repetindo esse mesmo ciclo de forma contínua enquanto o brinquedo está em funcionamento. Para elaborar um relatório, o engenheiro decidiu representar o comportamento da altura dessa cabine em função do tempo no plano cartesiano, já que ela descreve perfeitamente fenômenos periódicos. Com base nas características desse movimento periódico, qual dos gráficos a seguir representa corretamente a altura dessa cabine da roda-gigante ao longo do tempo?",
+    "options": [
+      "Curva do gráfico A",
+      "Curva do gráfico B",
+      "Curva do gráfico C",
+      "Curva do gráfico D",
+      "Curva do gráfico E"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      {
+        "src": "assets/questions/em3-11-option-A.webp",
+        "width": 401,
+        "height": 361,
+        "alt": "Gráfico A: reta crescente."
+      },
+      {
+        "src": "assets/questions/em3-11-option-B.webp",
+        "width": 401,
+        "height": 361,
+        "alt": "Gráfico B: parábola com concavidade para baixo."
+      },
+      {
+        "src": "assets/questions/em3-11-option-C.webp",
+        "width": 401,
+        "height": 361,
+        "alt": "Gráfico C: curva senoidal que repete máximos e mínimos."
+      },
+      {
+        "src": "assets/questions/em3-11-option-D.webp",
+        "width": 401,
+        "height": 361,
+        "alt": "Gráfico D: curva exponencial crescente."
+      },
+      {
+        "src": "assets/questions/em3-11-option-E.webp",
+        "width": 401,
+        "height": 361,
+        "alt": "Gráfico E: reta horizontal, altura constante."
+      }
+    ],
+    "topic": "Funções trigonométricas",
+    "hint": "Busque uma curva que repete subidas e descidas suavemente.",
+    "explanation": "A altura da cabine varia periodicamente entre um máximo e um mínimo. A curva senoidal da alternativa C representa esse movimento, ao contrário das curvas não periódicas.",
+    "difficulty": 2
+  },
+  {
+    "id": "em3-12",
+    "grade": "em3",
+    "number": 12,
+    "page": 25,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um aplicativo de navegação representa a direção de deslocamento de um drone por meio da localização de ângulos na circunferência trigonométrica com coordenadas cosseno e seno do respectivo ângulo. Em uma determinada operação, o drone foi programado para seguir a direção correspondente ao ângulo de 5π/3 radianos. Considerando as propriedades da circunferência trigonométrica, em qual quadrante estará essa direção e quais serão, respectivamente, os sinais das coordenadas do cosseno e do seno?",
+    "options": [
+      "No 4º quadrante; o sinal do cosseno é negativo (–) e o sinal do seno é positivo (+).",
+      "No 2º quadrante; o sinal do cosseno é negativo (–) e o sinal do seno é positivo (+).",
+      "No 3º quadrante; o sinal do cosseno é negativo (–) e o sinal do seno é negativo (–).",
+      "No 1º quadrante; o sinal do cosseno é positivo (+) e o sinal do seno é positivo (+).",
+      "No 4º quadrante; o sinal do cosseno é positivo (+) e o sinal do seno é negativo (–)."
+    ],
+    "correct": 4,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Converta 5π/3 em graus e localize no círculo.",
+    "explanation": "5π/3 rad = 300°. O ângulo está no 4º quadrante, onde o cosseno é positivo e o seno é negativo.",
+    "difficulty": 2
+  },
+  {
+    "id": "em3-13",
+    "grade": "em3",
+    "number": 13,
+    "page": 27,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Durante a fase de testes de uma nova roda-gigante, um engenheiro monitora o giro das cabines a partir do ponto de embarque localizado na base do brinquedo. Em um determinado momento do teste, ele pausa o equipamento para checagem exatamente quando uma das cabines atinge um ângulo central de 150° em relação ao seu ponto de partida. Para registrar essa posição de forma padronizada no software de simulação do sistema, o engenheiro precisa converter o valor dessa medida angular para radianos. Ao realizar a conversão correta, qual é o valor em radianos que o engenheiro registrará no software?",
+    "options": [
+      "6π/5 rad",
+      "5π/6 rad",
+      "3π/4 rad",
+      "5π/3 rad",
+      "π/6 rad"
+    ],
+    "correct": 1,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Multiplique a medida em graus por π/180.",
+    "explanation": "150° × π/180° = 150π/180 = 5π/6 rad.",
+    "difficulty": 3
+  },
+  {
+    "id": "em3-14",
+    "grade": "em3",
+    "number": 14,
+    "page": 29,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "A altura h, em metros, de uma boia de sinalização marítima, em relação ao fundo do mar, varia continuamente devido ao movimento periódico das ondas oceânicas. Um oceanógrafo determinou que essa variação pode ser modelada matematicamente pela função trigonométrica h(t) = 2 ⋅sen(t) + 15, em que t representa o tempo de observação. Considerando os valores máximo e mínimo que a função seno pode assumir, quais são, respectivamente, a altura máxima e a altura mínima que essa boia atinge em relação ao fundo do mar?",
+    "options": [
+      "17 m e 13 m.",
+      "17 m e 15 m.",
+      "15 m e 2 m.",
+      "15 m e -15 m.",
+      "2 m e -2 m."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções trigonométricas",
+    "hint": "O seno varia de −1 até 1.",
+    "explanation": "Máxima: 2 × 1 + 15 = 17 m. Mínima: 2 × (−1) + 15 = 13 m.",
+    "difficulty": 3
+  },
+  {
+    "id": "em3-15",
+    "grade": "em3",
+    "number": 15,
+    "page": 31,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um engenheiro está testando a calibração de um sensor de rotação instalado em uma engrenagem industrial. O sensor utiliza como referência matemática a circunferência trigonométrica, em que a posição horizontal à direita indica a marca inicial de 0°. Durante o teste, a engrenagem girou no sentido anti-horário e parou após descrever um arco total de exatos 390°. Considerando o conceito de arcos côngruos no ciclo trigonométrico, qual é a menor determinação positiva do arco descrito pela engrenagem e quais são os valores do seu cosseno e do seu seno, respectivamente?",
+    "options": [
+      "330°; −√3/2; −1/2",
+      "60°; 1/2; √3/2",
+      "30°; √3/2; 1/2",
+      "330°; √3/2; −1/2",
+      "30°; 1/2; √3/2"
+    ],
+    "correct": 2,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Trigonometria",
+    "hint": "Retire uma volta completa e use o ângulo que sobra.",
+    "explanation": "390° − 360° = 30°. cos 30° = √3/2 e sen 30° = 1/2.",
+    "difficulty": 3
+  },
+  {
+    "id": "em3-16",
+    "grade": "em3",
+    "number": 16,
+    "page": 33,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um engenheiro acústico está analisando um \"tom puro\" gerado por um sintetizador musical em um estúdio. Ele modelou matematicamente a variação da pressão sonora P, medida em micropascais (μPa), em função do tempo t, por meio da seguinte lei de formação: P(t) = 10 ⋅sen(t) + 15 Para calibrar perfeitamente o equipamento de medição, o engenheiro precisa calcular a pressão sonora exata registrada no instante t = π/6 . Considerando os conhecimentos sobre os valores da função seno para ângulos notáveis, qual será o valor numérico da pressão sonora P registrada pelo engenheiro nesse instante?",
+    "options": [
+      "5 μPa",
+      "10 μPa",
+      "15 μPa",
+      "20 μPa",
+      "25 μPa"
+    ],
+    "correct": 3,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções trigonométricas",
+    "hint": "π/6 corresponde a 30°. Quanto vale o seno?",
+    "explanation": "sen(π/6) = 1/2. P = 10 × 1/2 + 15 = 5 + 15 = 20 μPa.",
+    "difficulty": 3
+  },
+  {
+    "id": "em3-17",
+    "grade": "em3",
+    "number": 17,
+    "page": 35,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Uma cidade litorânea instalou uma nova roda-gigante como atração turística. O projeto de engenharia indica que o ponto mais alto do trajeto das cabines fica a 32 metros do solo, e o ponto mais baixo (onde ocorre o embarque contínuo dos passageiros) fica a 2 metros do solo. A roda-gigante gira com velocidade contínua e constante, levando exatamente 15 minutos para completar uma volta inteira. Um turista embarca em uma cabine no ponto mais baixo e a roda-gigante começa a subir. Para uma análise de segurança do equipamento, um engenheiro precisa determinar a posição exata dessa cabine após um determinado tempo de passeio. [Dados: sen(30°)=cos(60°)=0,50; sen(60°)=cos(30°)≅0,86] Modelando esse fenômeno periódico e utilizando as razões trigonométricas, qual será a altura da cabine do turista em relação ao solo após exatamente 10 minutos de passeio?",
+    "options": [
+      "7,5 m",
+      "9,5 m",
+      "22,0 m",
+      "29,9 m",
+      "24,5 m"
+    ],
+    "correct": 4,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções trigonométricas",
+    "hint": "Ache o centro e o raio; a cabine começa embaixo.",
+    "explanation": "Centro: (32 + 2)/2 = 17 m. Raio: (32 − 2)/2 = 15 m. Em 10 min, o giro é 360° × 10/15 = 240°. h = 17 − 15 cos 240° = 17 + 7,5 = 24,5 m.",
+    "difficulty": 3
+  },
+  {
+    "id": "em3-18",
+    "grade": "em3",
+    "number": 18,
+    "page": 37,
+    "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+    "stem": "Um centro de pesquisa costeiro desenvolveu um novo gerador de energia sustentável que funciona a partir do movimento das ondas do mar. O sistema possui uma boia de captação cujo deslocamento vertical h, medido em metros em relação ao fundo do mar, é modelado pela seguinte função trigonométrica: h(t) = 2 ⋅sen(30°⋅ t) + 5 em que t é o tempo medido em horas, a partir da meia-noite (t = 0). Ao analisar qualitativamente o comportamento matemático da função que descreve o movimento dessa boia no intervalo contínuo das 0h00 às 12h00, conclui-se que",
+    "options": [
+      "a altura da boia cresce nas primeiras 3 horas até atingir o seu pico máximo de 7 metros, decresce continuamente das 3h às 9h até atingir o nível mínimo de 3 metros, e volta a crescer até as 12h.",
+      "a boia inicia o seu movimento à meia-noite já em sua altura máxima de 7 metros, decrescendo de forma contínua nas primeiras 6 horas até o mínimo de 3 metros, retornando ao topo exatamente às 12h.",
+      "o deslocamento da boia apresenta um crescimento linear e constante ao longo da madrugada, atingindo o máximo de 7 metros exatamente às 6h, que representa a metade do período observado.",
+      "a boia atinge a sua altura máxima de 5 metros às 3h da manhã, uma vez que o seno se anula nesse instante, e desce continuamente até encostar no referencial zero do fundo do mar às 9h da manhã.",
+      "a altura da boia decresce logo nas primeiras horas do dia, atingindo o seu nível mínimo de 3 metros às 3h da manhã, e passa a crescer ininterruptamente durante o restante do período até as 12h."
+    ],
+    "correct": 0,
+    "images": [],
+    "optionImages": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "topic": "Funções trigonométricas",
+    "hint": "Avalie a função em 0h, 3h, 6h, 9h e 12h.",
+    "explanation": "Os ângulos são 0°, 90°, 180°, 270° e 360°; as alturas são 5, 7, 5, 3 e 5 m. Cresce até 3h, decresce até 9h e volta a crescer até 12h.",
+    "difficulty": 3
+  }
+]

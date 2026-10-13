@@ -1,0 +1,700 @@
+{
+  "collection": "SEDUC-SP • Dia 2 • Caderno Roxo • 3º bimestre • 2026",
+  "scope": "99 questões de Matemática e Educação Financeira dos cinco PDFs fornecidos. Outras disciplinas não incluídas.",
+  "transcription": "Transcrição para leitura responsiva; figuras extraídas dos cadernos. Dicas e explicações resumidas. Gabaritos preservados. Taxas financeiras são cenários didáticos dos enunciados.",
+  "questions": [
+    {
+      "id": "7-01",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 2,
+      "number": 1,
+      "correct": 3
+    },
+    {
+      "id": "7-02",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 3,
+      "number": 2,
+      "correct": 1
+    },
+    {
+      "id": "7-03",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 4,
+      "number": 3,
+      "correct": 2
+    },
+    {
+      "id": "7-04",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 5,
+      "number": 4,
+      "correct": 3
+    },
+    {
+      "id": "7-05",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 6,
+      "number": 5,
+      "correct": 1
+    },
+    {
+      "id": "7-06",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 7,
+      "number": 6,
+      "correct": 3
+    },
+    {
+      "id": "7-07",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 8,
+      "number": 7,
+      "correct": 0
+    },
+    {
+      "id": "7-08",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 9,
+      "number": 8,
+      "correct": 3
+    },
+    {
+      "id": "7-09",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 10,
+      "number": 9,
+      "correct": 2
+    },
+    {
+      "id": "7-10",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 11,
+      "number": 10,
+      "correct": 0
+    },
+    {
+      "id": "7-11",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 12,
+      "number": 11,
+      "correct": 2
+    },
+    {
+      "id": "7-12",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 13,
+      "number": 12,
+      "correct": 1
+    },
+    {
+      "id": "7-13",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 14,
+      "number": 13,
+      "correct": 0
+    },
+    {
+      "id": "7-14",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 15,
+      "number": 14,
+      "correct": 2
+    },
+    {
+      "id": "7-15",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 16,
+      "number": 15,
+      "correct": 1
+    },
+    {
+      "id": "7-16",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 17,
+      "number": 16,
+      "correct": 0
+    },
+    {
+      "id": "7-17",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 18,
+      "number": 17,
+      "correct": 2
+    },
+    {
+      "id": "7-18",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 19,
+      "number": 18,
+      "correct": 0
+    },
+    {
+      "id": "7-19",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 20,
+      "number": 19,
+      "correct": 1
+    },
+    {
+      "id": "7-20",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_7_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 21,
+      "number": 20,
+      "correct": 3
+    },
+    {
+      "id": "9-01",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 2,
+      "number": 1,
+      "correct": 2
+    },
+    {
+      "id": "9-02",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 3,
+      "number": 2,
+      "correct": 3
+    },
+    {
+      "id": "9-03",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 4,
+      "number": 3,
+      "correct": 1
+    },
+    {
+      "id": "9-04",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 5,
+      "number": 4,
+      "correct": 0
+    },
+    {
+      "id": "9-05",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 6,
+      "number": 5,
+      "correct": 2
+    },
+    {
+      "id": "9-06",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 7,
+      "number": 6,
+      "correct": 2
+    },
+    {
+      "id": "9-07",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 8,
+      "number": 7,
+      "correct": 3
+    },
+    {
+      "id": "9-08",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 9,
+      "number": 8,
+      "correct": 0
+    },
+    {
+      "id": "9-09",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 10,
+      "number": 9,
+      "correct": 1
+    },
+    {
+      "id": "9-10",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 11,
+      "number": 10,
+      "correct": 2
+    },
+    {
+      "id": "9-11",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 12,
+      "number": 11,
+      "correct": 3
+    },
+    {
+      "id": "9-12",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 13,
+      "number": 12,
+      "correct": 0
+    },
+    {
+      "id": "9-13",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 14,
+      "number": 13,
+      "correct": 1
+    },
+    {
+      "id": "9-14",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 15,
+      "number": 14,
+      "correct": 0
+    },
+    {
+      "id": "9-15",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 16,
+      "number": 15,
+      "correct": 2
+    },
+    {
+      "id": "9-16",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 17,
+      "number": 16,
+      "correct": 3
+    },
+    {
+      "id": "9-17",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 18,
+      "number": 17,
+      "correct": 0
+    },
+    {
+      "id": "9-18",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 19,
+      "number": 18,
+      "correct": 3
+    },
+    {
+      "id": "9-19",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 20,
+      "number": 19,
+      "correct": 1
+    },
+    {
+      "id": "9-20",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_9_ano_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 21,
+      "number": 20,
+      "correct": 1
+    },
+    {
+      "id": "em1-01",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 2,
+      "number": 1,
+      "correct": 1
+    },
+    {
+      "id": "em1-02",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 4,
+      "number": 2,
+      "correct": 0
+    },
+    {
+      "id": "em1-03",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 6,
+      "number": 3,
+      "correct": 3
+    },
+    {
+      "id": "em1-04",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 8,
+      "number": 4,
+      "correct": 4
+    },
+    {
+      "id": "em1-05",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 10,
+      "number": 5,
+      "correct": 3
+    },
+    {
+      "id": "em1-06",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 12,
+      "number": 6,
+      "correct": 1
+    },
+    {
+      "id": "em1-07",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 14,
+      "number": 7,
+      "correct": 0
+    },
+    {
+      "id": "em1-08",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 16,
+      "number": 8,
+      "correct": 1
+    },
+    {
+      "id": "em1-09",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 18,
+      "number": 9,
+      "correct": 3
+    },
+    {
+      "id": "em1-10",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 20,
+      "number": 10,
+      "correct": 0
+    },
+    {
+      "id": "em1-11",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 22,
+      "number": 11,
+      "correct": 2
+    },
+    {
+      "id": "em1-12",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 24,
+      "number": 12,
+      "correct": 2
+    },
+    {
+      "id": "em1-13",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 26,
+      "number": 13,
+      "correct": 4
+    },
+    {
+      "id": "em1-14",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 28,
+      "number": 14,
+      "correct": 0
+    },
+    {
+      "id": "em1-15",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 30,
+      "number": 15,
+      "correct": 2
+    },
+    {
+      "id": "em1-16",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 32,
+      "number": 16,
+      "correct": 2
+    },
+    {
+      "id": "em1-17",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 34,
+      "number": 17,
+      "correct": 0
+    },
+    {
+      "id": "em1-18",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 36,
+      "number": 18,
+      "correct": 1
+    },
+    {
+      "id": "em1-19",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 38,
+      "number": 19,
+      "correct": 4
+    },
+    {
+      "id": "em1-20",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 40,
+      "number": 20,
+      "correct": 0
+    },
+    {
+      "id": "em1-21",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_1_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 42,
+      "number": 21,
+      "correct": 3
+    },
+    {
+      "id": "em2-01",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 2,
+      "number": 1,
+      "correct": 1
+    },
+    {
+      "id": "em2-02",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 4,
+      "number": 2,
+      "correct": 0
+    },
+    {
+      "id": "em2-03",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 6,
+      "number": 3,
+      "correct": 2
+    },
+    {
+      "id": "em2-04",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 8,
+      "number": 4,
+      "correct": 1
+    },
+    {
+      "id": "em2-05",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 10,
+      "number": 5,
+      "correct": 3
+    },
+    {
+      "id": "em2-06",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 12,
+      "number": 6,
+      "correct": 0
+    },
+    {
+      "id": "em2-07",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 14,
+      "number": 7,
+      "correct": 4
+    },
+    {
+      "id": "em2-08",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 16,
+      "number": 8,
+      "correct": 2
+    },
+    {
+      "id": "em2-09",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 18,
+      "number": 9,
+      "correct": 4
+    },
+    {
+      "id": "em2-10",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 20,
+      "number": 10,
+      "correct": 3
+    },
+    {
+      "id": "em2-11",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 22,
+      "number": 11,
+      "correct": 1
+    },
+    {
+      "id": "em2-12",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 24,
+      "number": 12,
+      "correct": 0
+    },
+    {
+      "id": "em2-13",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 26,
+      "number": 13,
+      "correct": 4
+    },
+    {
+      "id": "em2-14",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 28,
+      "number": 14,
+      "correct": 3
+    },
+    {
+      "id": "em2-15",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 30,
+      "number": 15,
+      "correct": 2
+    },
+    {
+      "id": "em2-16",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 32,
+      "number": 16,
+      "correct": 3
+    },
+    {
+      "id": "em2-17",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 34,
+      "number": 17,
+      "correct": 2
+    },
+    {
+      "id": "em2-18",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 36,
+      "number": 18,
+      "correct": 0
+    },
+    {
+      "id": "em2-19",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 38,
+      "number": 19,
+      "correct": 0
+    },
+    {
+      "id": "em2-20",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_2_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 40,
+      "number": 20,
+      "correct": 4
+    },
+    {
+      "id": "em3-01",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 2,
+      "number": 1,
+      "correct": 4
+    },
+    {
+      "id": "em3-02",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 4,
+      "number": 2,
+      "correct": 2
+    },
+    {
+      "id": "em3-03",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 6,
+      "number": 3,
+      "correct": 1
+    },
+    {
+      "id": "em3-04",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 8,
+      "number": 4,
+      "correct": 0
+    },
+    {
+      "id": "em3-05",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 10,
+      "number": 5,
+      "correct": 2
+    },
+    {
+      "id": "em3-06",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 12,
+      "number": 6,
+      "correct": 1
+    },
+    {
+      "id": "em3-07",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 14,
+      "number": 7,
+      "correct": 1
+    },
+    {
+      "id": "em3-08",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 16,
+      "number": 8,
+      "correct": 3
+    },
+    {
+      "id": "em3-09",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 18,
+      "number": 9,
+      "correct": 3
+    },
+    {
+      "id": "em3-10",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 20,
+      "number": 10,
+      "correct": 0
+    },
+    {
+      "id": "em3-11",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 22,
+      "number": 11,
+      "correct": 2
+    },
+    {
+      "id": "em3-12",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 25,
+      "number": 12,
+      "correct": 4
+    },
+    {
+      "id": "em3-13",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 27,
+      "number": 13,
+      "correct": 1
+    },
+    {
+      "id": "em3-14",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 29,
+      "number": 14,
+      "correct": 0
+    },
+    {
+      "id": "em3-15",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 31,
+      "number": 15,
+      "correct": 2
+    },
+    {
+      "id": "em3-16",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 33,
+      "number": 16,
+      "correct": 3
+    },
+    {
+      "id": "em3-17",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 35,
+      "number": 17,
+      "correct": 4
+    },
+    {
+      "id": "em3-18",
+      "source": "Prova_e_Folha_de_Respostas_Seduc_3_srie_DIA_2__Prova_Roxa__3_BI.pdf",
+      "page": 37,
+      "number": 18,
+      "correct": 0
+    }
+  ]
+}
