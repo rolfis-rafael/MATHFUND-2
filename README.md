@@ -2,7 +2,7 @@ O Mathfund 2 é um projeto de site gameficado com jogos e desafios matemáticos,
 
 Acesse o Projeto nesse link:
 
-mathfund.gamer.free
+http://mathfund.gamer.free
 
 <img width="1902" height="927" alt="image" src="https://github.com/user-attachments/assets/87829fc7-b123-47a2-8c56-908ed8e0fcca" />
 
