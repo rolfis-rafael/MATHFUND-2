@@ -1,8 +1,8 @@
 O Mathfund 2 é um projeto de site gameficado com jogos e desafios matemáticos, desenvolvido para tornar o aprendizado mais interativo e divertido, é um aprimoramento do primeiro mathfund, mas com foco em vestibulares e estimular a juventude a gostar de estudar.
 
 Acesse o Projeto nesse link:
-
 http://mathfund.gamer.free
+
 
 <img width="1902" height="927" alt="image" src="https://github.com/user-attachments/assets/87829fc7-b123-47a2-8c56-908ed8e0fcca" />
 
